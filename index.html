@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="AJiusBlog — Your inspiration hub for tech, platforms, and curated product recommendations.">
+  <title>AJiusBlog — Tech, Platforms &amp; Product Recommendations</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body data-page="index">
+
+  <div id="site-header"></div>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero__background" style="background-image: url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1920&q=80');"></div>
+      <div class="hero__overlay"></div>
+      <div class="hero__content">
+        <div class="hero__badges">
+          <span class="hero__badge">Tech Reviews</span>
+          <span class="hero__badge">Platform Guides</span>
+          <span class="hero__badge">Honest Picks</span>
+        </div>
+        <h1 class="hero__title">Welcome to AJiusBlog</h1>
+        <p class="hero__subtitle">Real reviews from someone who's returned the bad purchases — so you keep the good ones.</p>
+        <div class="hero__actions">
+          <a href="blog.html" class="btn btn--primary btn--lg">Explore Articles</a>
+          <a href="products.html" class="btn btn--outline btn--lg">Browse Products</a>
+        </div>
+        <div class="hero__stats">
+          <div>
+            <div class="hero__stat-number" data-count="10">0</div>
+            <div class="hero__stat-label">Articles</div>
+          </div>
+          <div>
+            <div class="hero__stat-number" data-count="6">0</div>
+            <div class="hero__stat-label">Products</div>
+          </div>
+          <div>
+            <div class="hero__stat-number" data-count="3">0</div>
+            <div class="hero__stat-label">Categories</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Categories -->
+    <section class="section">
+      <div class="container">
+        <div class="section__header reveal--animate">
+          <h2 class="section__title">Browse by Topic</h2>
+          <p class="section__subtitle">Find exactly what you're looking for</p>
+        </div>
+        <div class="category-cards" id="categoryCards"></div>
+      </div>
+    </section>
+
+    <!-- Featured Post Spotlight -->
+    <section class="section" style="background-color: var(--color-bg-alt);">
+      <div class="container">
+        <div class="section__header reveal--animate">
+          <h2 class="section__title">Featured Story</h2>
+          <p class="section__subtitle">Our latest deep dive</p>
+        </div>
+        <div id="featuredSpotlight"></div>
+      </div>
+    </section>
+
+    <!-- Latest Posts -->
+    <section class="section">
+      <div class="container">
+        <div class="section__header reveal--animate">
+          <h2 class="section__title">Latest Posts</h2>
+          <p class="section__subtitle">Fresh insights and reviews from the world of technology</p>
+        </div>
+        <div class="grid grid--3" id="latestPosts"></div>
+        <div class="section__action">
+          <a href="blog.html" class="btn btn--outline">View All Articles</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Why AJiusBlog -->
+    <section class="section" style="background-color: var(--color-bg-alt);">
+      <div class="container">
+        <div class="section__header reveal--animate">
+          <h2 class="section__title">Why AJiusBlog?</h2>
+          <p class="section__subtitle">What makes us different from another tech blog</p>
+        </div>
+        <div class="feature-grid reveal--animate">
+          <div class="feature-item">
+            <div class="feature-item__icon">🔍</div>
+            <h3 class="feature-item__title">Hands-On Tested</h3>
+            <p class="feature-item__desc">Every product is used daily for weeks before we write a word.</p>
+          </div>
+          <div class="feature-item">
+            <div class="feature-item__icon">💬</div>
+            <h3 class="feature-item__title">Honest Opinions</h3>
+            <p class="feature-item__desc">We share the flaws, not just the highlights. Returns happen here too.</p>
+          </div>
+          <div class="feature-item">
+            <div class="feature-item__icon">⚡</div>
+            <h3 class="feature-item__title">Practical Guides</h3>
+            <p class="feature-item__desc">Step-by-step tutorials you can finish in one afternoon.</p>
+          </div>
+          <div class="feature-item">
+            <div class="feature-item__icon">🎯</div>
+            <h3 class="feature-item__title">No Fluff</h3>
+            <p class="feature-item__desc">Medium-long reads with substance — not 200-word SEO filler.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Quote Banner -->
+    <section class="section">
+      <div class="container">
+        <blockquote class="quote-banner reveal--animate">
+          <p class="quote-banner__text">The best gear recommendation is the one you'd still buy after returning three wrong ones first.</p>
+          <cite class="quote-banner__author">— Alex Jius, Founder of AJiusBlog</cite>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- Featured Products -->
+    <section class="section" style="background-color: var(--color-bg-alt);">
+      <div class="container">
+        <div class="section__header reveal--animate">
+          <h2 class="section__title">Featured Products</h2>
+          <p class="section__subtitle">Hand-picked gear and tools we genuinely recommend</p>
+        </div>
+        <div class="grid grid--4" id="featuredProducts"></div>
+        <div class="section__action">
+          <a href="products.html" class="btn btn--outline">Browse All Products</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Newsletter CTA -->
+    <section class="section">
+      <div class="container">
+        <div class="newsletter-cta reveal--animate">
+          <div>
+            <h2 class="newsletter-cta__title">Get Weekly Picks</h2>
+            <p class="newsletter-cta__desc">Join readers who get one curated email per week — the best article, one product worth knowing, zero spam.</p>
+          </div>
+          <form class="newsletter-cta__form">
+            <input type="email" class="newsletter-cta__input" placeholder="you@example.com" required aria-label="Email for newsletter">
+            <button type="submit" class="btn btn--primary">Subscribe</button>
+          </form>
+          <p class="newsletter-widget__success newsletter-cta__success" style="grid-column:1/-1;text-align:center;margin-top:0.5rem;">Welcome aboard! Check your inbox soon.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <div id="back-to-top"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/widgets.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/pages.js"></script>
+</body>
+</html>

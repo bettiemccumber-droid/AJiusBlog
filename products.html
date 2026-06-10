@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Curated product reviews and recommendations on AJiusBlog — honest pros, cons, and ratings.">
+  <title>Products — AJiusBlog</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body data-page="products">
+
+  <div id="site-header"></div>
+
+  <main>
+    <header class="page-hero page-hero--products">
+      <div class="container page-hero__split">
+        <div>
+          <nav class="page-hero__breadcrumb" aria-label="Breadcrumb">
+            <a href="index.html">Home</a>
+            <span>/</span>
+            <span>Products</span>
+          </nav>
+          <span class="page-hero__eyebrow">🛒 Tested &amp; Rated</span>
+          <h1 class="page-hero__title">Product Reviews</h1>
+          <p class="page-hero__desc">Gear we use daily — rated honestly with real pros, cons, and no sugarcoating.</p>
+          <div class="page-hero__chips">
+            <a href="products" class="page-hero__chip" data-filter-link="hardware">⌨️ Hardware</a>
+            <a href="products" class="page-hero__chip" data-filter-link="software">💻 Software</a>
+            <a href="products" class="page-hero__chip" data-filter-link="top-rated">★ Top Rated</a>
+          </div>
+        </div>
+        <div class="page-hero__visual">
+          <img src="https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80" alt="Curated tech products on desk" loading="eager">
+          <div class="page-hero__floating-badge"><span>★</span> Hand-picked daily drivers</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="section">
+      <div class="container">
+        <!-- Product Spotlight -->
+        <div id="productSpotlight"></div>
+
+        <!-- Toolbar -->
+        <div class="products-toolbar reveal">
+          <div class="products-filter" id="productFilters">
+            <button class="products-filter__btn products-filter__btn--active" data-filter="all">All Products</button>
+            <button class="products-filter__btn" data-filter="hardware">Hardware</button>
+            <button class="products-filter__btn" data-filter="software">Software</button>
+            <button class="products-filter__btn" data-filter="top-rated">Top Rated ★</button>
+          </div>
+          <p class="blog-toolbar__result" id="productCount"></p>
+        </div>
+
+        <div class="grid grid--3" id="productsGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <div id="back-to-top"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/widgets.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/pages.js"></script>
+</body>
+</html>
