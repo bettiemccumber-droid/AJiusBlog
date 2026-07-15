@@ -866,6 +866,11 @@ const ARTICLE_CONTENTS = {
     <p><strong>Katya:</strong> Reviews that match reality. Specs you can compare without opening twelve tabs. My parents bought their washing machine on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> six years ago. Still running. When it dies, they'll check <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> first — not habit, earned loyalty.</p>
     <p>Large appliances, electronics, beauty, home and garden — the categories sound generic until you realize most general retailers sacrifice depth. <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> doesn't. Installation options on fridges matter. Comparison tools on phones matter. Weekly promo rotations on appliances matter when you're budgeting a kitchen.</p>
 
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10019/147/10019147_f6d2006735f406807550a55f1df152bd.jpg" alt="Apple iPhone listed in the 21vek BY electronics catalog">
+      <figcaption>Comparison tools on phones matter — Apple, Samsung, Xiaomi side by side without twelve open tabs.</figcaption>
+    </figure>
+
     <h2>On the Saturday cart</h2>
     <p><strong>Me:</strong> Walk me through last Saturday.</p>
     <p><strong>Katya:</strong> Blender replacement — old one finally died. School headphones for my son. Sunscreen. Birthday gift for my mum. All on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a>. Checked promo section first — saved on the blender bundle. Created account years ago; order history tells me what model we bought last time.</p>
@@ -876,13 +881,8 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10008/414/10008414_3c58db6651230c0855eb6c84da12bb49.png" alt="Electronics product from the 21vek BY catalog">
-      <figcaption>From Samsung phones to kitchen mixers — electronics, appliances, and beauty under one 21vek BY roof.</figcaption>
-    </figure>
-
-    <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10019/147/10019147_fec4e829d13b3b50a6530c1da4815264.jpg" alt="Skincare and personal care product from 21vek BY">
-      <figcaption>Sunscreen, birthday gifts, everyday beauty — the Saturday cart categories that surprised me most.</figcaption>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10008/414/10008414_3c58db6651230c0855eb6c84da12bb49.png" alt="Garvill garden cultivator from 21vek BY home and garden">
+      <figcaption>Home and garden on the same account — backyard tools next to blenders and birthday gifts in one Saturday cart.</figcaption>
     </figure>
 
     <h2>On appliances — Katya's parents' test</h2>
@@ -890,12 +890,23 @@ const ARTICLE_CONTENTS = {
     <p><strong>Katya:</strong> Order history on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> shows the old model. Filter by capacity, energy class, installation. Read reviews from people who had it delivered, not just unboxed. Large appliances aren't impulse — they're household infrastructure.</p>
     <p>Refrigerators, ovens, garden furniture — categories that sound unrelated until you're furnishing an apartment and realize one trusted retailer beats six anxious tabs. The promo section on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> rotates weekly. Bundle deals on appliances especially reward patience — check before you commit.</p>
 
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_c3d55318de64f77efb05f56559c3ce80.jpg" alt="Mio Tesoro NOMAN sofa from the 21vek BY furniture catalog">
+      <figcaption>Furnishing half an apartment from one site — sofas, appliances, and kids' gear without six tracking numbers.</figcaption>
+    </figure>
+
     <p><strong>Me:</strong> Would you recommend <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> to someone who usually shops specialists?</p>
     <p><strong>Katya:</strong> Only if they like saving Saturdays. I don't love everything equally — fashion isn't the reason I go. But electronics, appliances, kids' gear, beauty basics? Yes. Without thinking.</p>
 
     <h2>On kids' gear — the underrated aisle</h2>
     <p><strong>Me:</strong> Headphones keep coming up. What else for kids?</p>
     <p><strong>Katya:</strong> School tablets, bike helmets, winter boots — all on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY kids and family section</a>. I compare specs once, save to wishlist, buy when a sale hits. Same account, same delivery address, same sanity.</p>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/6364/846/jc180_sundays_661ccafe5ec08.jpeg" alt="Sundays JC-180 portable football goal from 21vek BY kids and sports">
+      <figcaption>Backyard football goals sit in the same kids' aisle as school tablets and helmets — one list, one delivery.</figcaption>
+    </figure>
+
     <p>That's the full picture of <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY one-stop shopping</a> — not glamorous, just fewer Saturdays lost to errands.</p>
 
     <blockquote>The best one-stop shop doesn't make you compromise on category depth — it removes the friction between needs.</blockquote>
@@ -905,7 +916,7 @@ const ARTICLE_CONTENTS = {
   `,
 
   "shop-electronics-beauty-more-21vek-by": `
-    <p>Katya shared her screen on a July afternoon. Cart on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a>: Bluetooth speaker, face serum she'd researched for weeks, coffee grinder. Total looked like three different stores. Checkout button: one.</p>
+    <p>Katya shared her screen on a July afternoon. Cart on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a>: wireless earbuds, face serum she'd researched for weeks, coffee grinder. Total looked like three different stores. Checkout button: one.</p>
     <p>"People think general retailers are mediocre," she said. "Maybe elsewhere. Not here."</p>
     <p>I used to agree with the skepticism. Watching her build that cart changed the assumption — not through marketing, through specificity.</p>
 
@@ -918,6 +929,11 @@ const ARTICLE_CONTENTS = {
     <p>Samsung, Apple, Xiaomi, LG, Sony — major brands with spec comparisons that help instead of overwhelm. Katya bought wireless earbuds on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> after reading user reviews on the site, not a random blog. Returned once. Exchanged headphone sizes once. Both straightforward.</p>
     <p>July promos on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> electronics hit phones, tablets, small kitchen gadgets — practical timing, not impulse traps. She sets alerts, buys when the need and the price align.</p>
 
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10019/147/10019147_fec4e829d13b3b50a6530c1da4815264.jpg" alt="Apple iPhone with camera styles listed on 21vek BY">
+      <figcaption>July phone promos with spec comparisons that help instead of overwhelm — the electronics aisle she checks first.</figcaption>
+    </figure>
+
     <h2>Beauty — the category I didn't expect</h2>
     <p>General retailers often treat skincare like an afterthought. <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> beauty spans drugstore staples and premium fragrance. Katya's serum came with ingredient lists and expiry dates clearly marked — authenticity matters, and established retailers earn trust differently than marketplace sellers with blurry sourcing.</p>
     <p>Gift sets on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> became her last-minute birthday default. Wrapped, branded, shipped — done without a separate trip.</p>
@@ -927,16 +943,6 @@ const ARTICLE_CONTENTS = {
       <p>Combine a bigger electronics purchase with smaller beauty or home items on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> to hit free-shipping thresholds. One delivery, multiple needs. Katya does this monthly like clockwork.</p>
     </aside>
 
-    <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10019/147/10019147_f6d2006735f406807550a55f1df152bd.jpg" alt="Skincare product from the 21vek BY beauty aisle">
-      <figcaption>Katya's researched serum — ingredient lists and expiry dates clearly marked, the surprise category that won me over.</figcaption>
-    </figure>
-
-    <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_c3d55318de64f77efb05f56559c3ce80.jpg" alt="Beauty gift set from the 21vek BY beauty section">
-      <figcaption>Gift sets became her last-minute birthday default — wrapped, branded, shipped without a separate errand.</figcaption>
-    </figure>
-
     <h2>Beauty — why Katya trusts the shelf</h2>
     <p>Marketplace serums with unclear sourcing make her nervous. <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> lists expiry dates and ingredients visibly — boring detail until you've received a product that smells wrong. Drugstore staples sit next to premium fragrance; gift sets solve the forgotten-birthday problem without a separate errand.</p>
     <p>She times electronics purchases around July promos — phones, tablets, small kitchen gadgets — practical needs, not hype cycles. Returned earbuds once, exchanged headphone sizes once. Both processes straightforward, which is why she'll buy headphones and face serum from the same cart again.</p>
@@ -944,8 +950,8 @@ const ARTICLE_CONTENTS = {
     <p>The coffee grinder wasn't glamorous. It was the item that made the cart feel domestic instead of random — a household purchase, not three disconnected splurges. That's the department-store-on-the-web feeling <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> actually delivers.</p>
 
     <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/6364/846/jc180_sundays_661ccafe5ec08.jpeg" alt="Sundays kitchen appliance from 21vek BY">
-      <figcaption>The coffee grinder that turned a mixed cart into a household errand — small kitchen gear alongside headphones and serum.</figcaption>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_079f4fb55b755f6f198bee97d7c95390.png" alt="Mio Tesoro NOMAN sofa from the 21vek BY furniture catalog">
+      <figcaption>Earbuds, serum, coffee grinder — then furniture when the cart keeps growing. One retailer, one checkout.</figcaption>
     </figure>
 
     <h2>Small kitchen gear — the quiet add-on</h2>
