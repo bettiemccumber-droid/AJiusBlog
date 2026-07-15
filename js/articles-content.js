@@ -857,7 +857,7 @@ const ARTICLE_CONTENTS = {
     <p><strong>Katya:</strong> Because when you manage a household, friction is the enemy. I don't want four tracking numbers for one Saturday.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80" alt="Front-loading washing machine like those sold on 21vek BY">
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/8221/721/023_almaz_luks_06_79e2553a895a8cf01d379fba04ed4574.jpg" alt="Almaz Lux washing machine listed on 21vek BY">
       <figcaption>Katya's parents bought their washing machine here six years ago — still running, still the first site they check.</figcaption>
     </figure>
 
@@ -876,8 +876,13 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1468495244123-6c6c332eeece?auto=format&fit=crop&w=900&q=80" alt="Electronics department with TVs, phones and laptops on display">
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10008/414/10008414_3c58db6651230c0855eb6c84da12bb49.png" alt="Electronics product from the 21vek BY catalog">
       <figcaption>From Samsung phones to kitchen mixers — electronics, appliances, and beauty under one 21vek BY roof.</figcaption>
+    </figure>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10019/147/10019147_fec4e829d13b3b50a6530c1da4815264.jpg" alt="Skincare and personal care product from 21vek BY">
+      <figcaption>Sunscreen, birthday gifts, everyday beauty — the Saturday cart categories that surprised me most.</figcaption>
     </figure>
 
     <h2>On appliances — Katya's parents' test</h2>
@@ -905,7 +910,7 @@ const ARTICLE_CONTENTS = {
     <p>I used to agree with the skepticism. Watching her build that cart changed the assumption — not through marketing, through specificity.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=900&q=80" alt="Wireless earbuds listed in the 21vek BY electronics section">
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/9292/875/airpods4mxp63_apple_9292875_6bd8407bf6d5ceee8602e3fad4c3511f.jpg" alt="Apple AirPods 4 listed in the 21vek BY electronics section">
       <figcaption>The Bluetooth earbuds in Katya's mixed cart — researched on-site, reviewed by real buyers, returned once without drama.</figcaption>
     </figure>
 
@@ -923,8 +928,13 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=80" alt="Face serum and skincare products from the 21vek BY beauty aisle">
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10019/147/10019147_f6d2006735f406807550a55f1df152bd.jpg" alt="Skincare product from the 21vek BY beauty aisle">
       <figcaption>Katya's researched serum — ingredient lists and expiry dates clearly marked, the surprise category that won me over.</figcaption>
+    </figure>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_c3d55318de64f77efb05f56559c3ce80.jpg" alt="Beauty gift set from the 21vek BY beauty section">
+      <figcaption>Gift sets became her last-minute birthday default — wrapped, branded, shipped without a separate errand.</figcaption>
     </figure>
 
     <h2>Beauty — why Katya trusts the shelf</h2>
@@ -932,6 +942,11 @@ const ARTICLE_CONTENTS = {
     <p>She times electronics purchases around July promos — phones, tablets, small kitchen gadgets — practical needs, not hype cycles. Returned earbuds once, exchanged headphone sizes once. Both processes straightforward, which is why she'll buy headphones and face serum from the same cart again.</p>
 
     <p>The coffee grinder wasn't glamorous. It was the item that made the cart feel domestic instead of random — a household purchase, not three disconnected splurges. That's the department-store-on-the-web feeling <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> actually delivers.</p>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/6364/846/jc180_sundays_661ccafe5ec08.jpeg" alt="Sundays kitchen appliance from 21vek BY">
+      <figcaption>The coffee grinder that turned a mixed cart into a household errand — small kitchen gear alongside headphones and serum.</figcaption>
+    </figure>
 
     <h2>Small kitchen gear — the quiet add-on</h2>
     <p>Katya never buys the coffee grinder alone anymore. She pairs small kitchen items with <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY electronics and appliances</a> to clear shipping thresholds — toaster with headphones, kettle with serum. One box, one signature, one less interruption to her afternoon.</p>

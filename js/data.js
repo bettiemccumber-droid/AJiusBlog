@@ -233,7 +233,7 @@ const BLOG_POSTS = [
     date: "2026-07-01",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    image: "https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/8221/721/023_almaz_luks_06_ec06c93d08090d8e3f748634105953c6.jpg",
     excerpt: "I interviewed my colleague Katya in Minsk about how one website handles blenders, headphones, sunscreen, and her mum's birthday — in one Saturday cart.",
     keywords: ["21vek BY", "Belarus", "online shopping", "electronics", "home"],
     relatedProducts: []
@@ -246,7 +246,7 @@ const BLOG_POSTS = [
     date: "2026-07-10",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&q=80",
+    image: "https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/9292/875/airpods4mxp63_apple_9292875_6bd8407bf6d5ceee8602e3fad4c3511f.jpg",
     excerpt: "Katya's 21vek BY cart mixed earbuds, face serum, and a coffee grinder. One checkout — and I stopped assuming general retailers are mediocre.",
     keywords: ["21vek BY", "electronics", "beauty", "appliances", "shopping"],
     relatedProducts: []
