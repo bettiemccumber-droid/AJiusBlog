@@ -569,6 +569,10 @@ const ARTICLE_CONTENTS = {
     <h2>Mistakes I made so you don't have to</h2>
     <p>I once ordered a custom illustration with a two-day turnaround because I procrastinated. It arrived technically on time and emotionally rushed — proportions slightly off, details missing. Never again. Handmade runs on maker schedules, not Amazon Prime logic.</p>
     <p>I also bought a "personalized" item that turned out to be a template with my text dropped in. Read the listing. If customization is a dropdown menu only, it's probably not bespoke. Real makers usually ask questions in messages.</p>
+    <p>One habit that changed outcomes: I message sellers on the <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy handmade gift marketplace</a> before ordering — ask about rush options, gift wrapping, whether they can omit pricing on a packing slip. Most say yes. That last detail matters when the recipient lives with you.</p>
+
+    <h2>A note on price — and when it's worth it</h2>
+    <p>Handmade isn't always cheap. It is often fair — you're paying for hours, not markup mystique. When I'm comparing, I open <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy artisan shops</a> side by side with mall alternatives. If the handmade piece costs twice as much but will be kept for years, the math usually favors the maker.</p>
 
     <aside class="article-soft-ad">
       <div class="article-soft-ad__label">Lead time reality</div>
@@ -581,7 +585,8 @@ const ARTICLE_CONTENTS = {
     </figure>
 
     <h3>If you're one gift away from panic</h3>
-    <p>Skip the gift card unless they've asked for one. Open <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a>, search something specific to them — their city, their hobby, their dog — and read three listings deeply instead of scrolling fifty shallowly. The right handmade gift rarely shows up in the first page anyway. It shows up when you search like you know the person.</p>
+    <p>Skip the gift card unless they've asked for one. Open <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a>, search something specific to them — their city, their hobby, their dog — and read three listings deeply instead of scrolling fifty shallowly. The right handmade gift rarely shows up on the first page anyway. It shows up when you search like you know the person.</p>
+    <p>When I'm truly stuck, I filter <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">handmade gifts on Etsy</a> by occasion — housewarming, new baby, retirement — then shortlist three shops with real review photos. One evening of browsing beats a rushed mall run every time.</p>
   `,
 
   "etsy-finds-one-of-a-kind-vintage-treasures": `
@@ -619,6 +624,8 @@ const ARTICLE_CONTENTS = {
 
     <h3>Start with one room, one object</h3>
     <p>Don't try to vintage-furnish an entire apartment in a weekend. Pick the room you sit in most. Search <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> for one piece that solves a real problem — bad lighting, bare walls, nowhere to put drinks when friends visit. The one-of-a-kind part takes care of itself.</p>
+    <p>My bedroom still has plain bedding — intentional. But the ceramic lamp on the nightstand is 70s Italian from an <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy vintage lighting shop</a>, and a stack of vinyl from sellers who photograph sleeve condition honestly. Small objects, high impact. That's the room-by-room philosophy — not a makeover montage, a slow accumulation of things with stories.</p>
+    <p>If you're new to vintage, start with something low-risk: framed art, a small side table, a set of glassware. Browse <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy one-of-a-kind vintage finds</a> with measurements written down before you shop. Saves return heartbreak.</p>
   `,
 
   "shop-latest-victorias-secret-lingerie-collection": `
@@ -654,6 +661,10 @@ const ARTICLE_CONTENTS = {
 
     <blockquote>Lingerie isn't frivolous. It's the layer you wear longest every single day — and the one that shows when everything else is wrong.</blockquote>
 
+    <h2>The drawer audit I should have done sooner</h2>
+    <p>I pulled everything out last month — twelve bras, four worn regularly, six wishful thinking, two genuinely wrong. Replacing the wrong ones from the <a href="https://www.linkbux.com/track/eef0JE7cmr8RakkPDchcfe6n0UZvamhpsz7ThIcTN5AJ1gqUxmEeAr_a_b35Ruo6bf0PgAFR4o6kHW3lIRxw_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret lingerie collection</a> took one afternoon and less money than I'd spent cumulatively on almost-right mall purchases. Keep two everyday, one occasion, one travel — done.</p>
+    <p>If you're in Poland or shopping the EU storefront, the <a href="https://www.linkbux.com/track/eef0JE7cmr8RakkPDchcfe6n0UZvamhpsz7ThIcTN5AJ1gqUxmEeAr_a_b35Ruo6bf0PgAFR4o6kHW3lIRxw_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret Poland online store</a> ships faster than I expected; still order fit-critical pieces with buffer time before events.</p>
+
     <h3>If your drawer is full of "fine"</h3>
     <p>Refresh one everyday bra and one occasion piece from the latest <a href="https://www.linkbux.com/track/eef0JE7cmr8RakkPDchcfe6n0UZvamhpsz7ThIcTN5AJ1gqUxmEeAr_a_b35Ruo6bf0PgAFR4o6kHW3lIRxw_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret</a> lingerie collection. Try them on a real day, not just in the mirror. Your future self — and your tailor — will notice.</p>
   `,
@@ -688,6 +699,8 @@ const ARTICLE_CONTENTS = {
     <h2>What I gift now</h2>
     <p>Fragrance and body care from <a href="https://www.linkbux.com/track/eef0JE7cmr8RakkPDchcfe6n0UZvamhpsz7ThIcTN5AJ1gqUxmEeAr_a_b35Ruo6bf0PgAFR4o6kHW3lIRxw_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret</a> became my reliable gifting category — birthdays I almost forgot, thank-yous that need to feel considered. Lounge sets for friends recovering from surgery or new babies. Not because they're luxurious in a chandelier sense. Because they're soft in a human sense.</p>
     <p>Push-up and plunge bras still have their place — specific necklines, specific silhouettes. But the drawer space winners are the pieces that disappear into the day and leave energy for everything else.</p>
+    <p>Last spring I sent Elena a lounge set from <a href="https://www.linkbux.com/track/eef0JE7cmr8RakkPDchcfe6n0UZvamhpsz7ThIcTN5AJ1gqUxmEeAr_a_b35Ruo6bf0PgAFR4o6kHW3lIRxw_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret Poland</a> after her second kid — not as a performance of generosity, as a "you need soft things too" gesture. She texted a photo wearing it while pumping at 6am. No wings required.</p>
+    <p>For anyone still picturing televised runway energy, browse the <a href="https://www.linkbux.com/track/eef0JE7cmr8RakkPDchcfe6n0UZvamhpsz7ThIcTN5AJ1gqUxmEeAr_a_b35Ruo6bf0PgAFR4o6kHW3lIRxw_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret everyday collection</a> first. Special occasion pieces second. Reverse that order and you'll overbuy drama.</p>
 
     <blockquote>You don't need runway wings to embrace your inner Angel. You need one ritual — however small — that says you're allowed to take up space.</blockquote>
 
@@ -732,8 +745,13 @@ const ARTICLE_CONTENTS = {
 
     <blockquote>Fashion should meet you where you live — not where a runway ends. Murci lives in the middle, which is where most of us actually are.</blockquote>
 
+    <h2>Saturday — the brunch I didn't plan for</h2>
+    <p>Week six of wearing <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci everyday elegance pieces</a>, a friend called Saturday brunch with twelve hours notice. Same midi, different belt, sandals instead of heels — passed without the usual closet spiral. That's the ROI I care about.</p>
+    <p>If you're building a workweek wardrobe without a stylist budget, the <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci UK fashion store</a> rewards starting with one versatile dress before chasing trends. Wear it six ways before you buy piece seven.</p>
+
     <h3>One dress, many mornings</h3>
     <p>If your closet has the same blazer-or-hoodie gap mine had, browse <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci</a> for one midi dress or co-ord set and wear it through a full week before judging. One good piece fixes a surprising number of mornings.</p>
+    <p>Filter the <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci everyday fashion collection</a> by what you actually do in a week — desk, dinner, transit, couch — and buy for the highest-frequency day first.</p>
   `,
 
   "discover-new-murci-collection-this-season": `
@@ -752,7 +770,7 @@ const ARTICLE_CONTENTS = {
     <p>Same dress, swap jacket for the cropped blazer from the <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci</a> drop, add heels. Soft pastels and bold coral in the lineup photograph well but more importantly survive real lighting — yellow terrace bulbs, not studio strobes.</p>
 
     <h2>Scenario C: "nice dinner, not trying too hard"</h2>
-    <p>The wide-leg trouser and crop top co-ord from <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci</a> became my default here. Gold earrings, done. I used to buy four fast-fashion pieces I'd regret. This season I bought two from Murci and skipped the haul entirely.</p>
+    <p>The wide-leg trouser and crop top co-ord from <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci</a> became my default here. Gold earrings, done. I used to buy four fast-fashion pieces I'd regret. This season I bought two from <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci's new seasonal collection</a> and skipped the haul entirely.</p>
 
     <aside class="article-soft-ad">
       <div class="article-soft-ad__label">Restock reality</div>
@@ -773,8 +791,11 @@ const ARTICLE_CONTENTS = {
 
     <blockquote>A good seasonal collection doesn't ask you to become someone else. It makes getting dressed on a humid Tuesday feel like you meant to.</blockquote>
 
+    <p>Styling note: I treat the sage slip as a base layer — denim jacket for breezy evenings, cropped blazer when I need structure, flat sandals when I'll walk more than six blocks. The <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci summer dress collection</a> works because the pieces survive those swaps without looking like different outfits entirely — same person, adjusted volume.</p>
+
     <h3>Pick one statement, build around it</h3>
     <p>Discover the new <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci</a> collection with one piece tied to one real event on your calendar. Wear it there. Then wear it somewhere harder. That's the ROI of fashion — not likes, fewer morning crises.</p>
+    <p>Screenshot the <a href="https://www.linkbux.com/track/769102pbFUcn6temJbqlTkJ1tDBSmnM_aR9jAfc2jipelSlVTEeiQMkZaZf51Q8qa5kOT6OzI?url=https%3A%2F%2Fwww.murci.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Murci new season lookbook</a> piece you keep reopening — that's usually the one worth buying, not the seventeen tabs you're juggling.</p>
   `,
 
   "mint-julep-boutique-southern-charm-modern-style": `
@@ -813,6 +834,10 @@ const ARTICLE_CONTENTS = {
     </figure>
 
     <blockquote>The best boutique pieces make you feel like yourself, just a little more polished. Lena would add: "and not like you bought it at an airport."</blockquote>
+
+    <h2>The bridesmaid shower curveball</h2>
+    <p>Two days before Jess's shower, Lena's backup dress ripped on a hanger — cheap wire, dramatic outcome. I lent mine; she ordered a replacement from <a href="https://shopthemint.com/" class="link--affiliate" target="_blank" rel="noopener sponsored">shop The Mint Julep Boutique</a> with express shipping and prayed. It arrived with hours to spare. Same fit DNA as the first. We now call this "the Lena insurance policy."</p>
+    <p>Southern weddings punish procrastination. If you have anything on the calendar between April and October, browse <a href="https://shopthemint.com/" class="link--affiliate" target="_blank" rel="noopener sponsored">The Mint Julep occasion dresses</a> early and keep one reliable option ready — not paranoia, just experience.</p>
 
     <h3>Browse with coffee and a calendar</h3>
     <p>Whether you're dressing for a Southern summer wedding or want everyday clothes that feel warmer, <a href="https://shopthemint.com/" class="link--affiliate" target="_blank" rel="noopener sponsored">The Mint Julep Boutique</a> delivers charm without cosplay. Open it when you have ten minutes and an upcoming invite — you'll find something worth keeping.</p>
@@ -857,6 +882,11 @@ const ARTICLE_CONTENTS = {
     <p><strong>Me:</strong> Would you recommend <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> to someone who usually shops specialists?</p>
     <p><strong>Katya:</strong> Only if they like saving Saturdays. I don't love everything equally — fashion isn't the reason I go. But electronics, appliances, kids' gear, beauty basics? Yes. Without thinking.</p>
 
+    <h2>On kids' gear — the underrated aisle</h2>
+    <p><strong>Me:</strong> Headphones keep coming up. What else for kids?</p>
+    <p><strong>Katya:</strong> School tablets, bike helmets, winter boots — all on <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY kids and family section</a>. I compare specs once, save to wishlist, buy when a sale hits. Same account, same delivery address, same sanity.</p>
+    <p>That's the full picture of <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY one-stop shopping</a> — not glamorous, just fewer Saturdays lost to errands.</p>
+
     <blockquote>The best one-stop shop doesn't make you compromise on category depth — it removes the friction between needs.</blockquote>
 
     <h3>Open it once with a real list</h3>
@@ -896,6 +926,10 @@ const ARTICLE_CONTENTS = {
     <p>She times electronics purchases around July promos — phones, tablets, small kitchen gadgets — practical needs, not hype cycles. Returned earbuds once, exchanged headphone sizes once. Both processes straightforward, which is why she'll buy headphones and face serum from the same cart again.</p>
 
     <p>The coffee grinder wasn't glamorous. It was the item that made the cart feel domestic instead of random — a household purchase, not three disconnected splurges. That's the department-store-on-the-web feeling <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> actually delivers.</p>
+
+    <h2>Small kitchen gear — the quiet add-on</h2>
+    <p>Katya never buys the coffee grinder alone anymore. She pairs small kitchen items with <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY electronics and appliances</a> to clear shipping thresholds — toaster with headphones, kettle with serum. One box, one signature, one less interruption to her afternoon.</p>
+    <p>For beauty specifically, she trusts the <a href="https://www.linkbux.com/track/1eedRBXHvU0lNwKxWVxTlW8Dyto4fwk_aARsdGSWpBCgIkvQI6r4c5ZYvdt3vNgHFlt_az?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY beauty and skincare aisle</a> because returns are documented in her order history — useful when a serum works and she forgets the exact name six months later.</p>
 
     <blockquote>Shop where you trust the shelf, not just the price tag. Katya's version: shop where you trust the shelf for headphones and face serum equally.</blockquote>
 
@@ -937,8 +971,13 @@ const ARTICLE_CONTENTS = {
 
     <blockquote>Buy once. You'll know the brand when you stop dreading appliance sounds.</blockquote>
 
+    <h2>What we actually ordered</h2>
+    <p>Dishwasher first — the Sunday flood was the wake-up call. I compared the dead unit against <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele built-in dishwashers</a> for a week before committing. Whisper-quiet isn't luxury when you work from home ten feet from the kitchen.</p>
+    <p>Next quarter: washing machine from the same <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK appliance range</a>. One brand, one less guess about service and parts. The repair guy's Sunday voice still echoes.</p>
+
     <h3>Replace the next failure with the last failure</h3>
     <p>If you're tired of machines that should last longer, explore <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele</a> for performance engineered to outlast trend cycles. Your future dinner parties — and your future Sundays — will notice.</p>
+    <p>Compare your current unit's age and repair history against <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele lifetime performance appliances</a> before the next emergency call — the spreadsheet is boring until it prevents a flooded kitchen.</p>
   `,
 
   "miele-uk-elevate-kitchen-luxury": `
@@ -977,6 +1016,10 @@ const ARTICLE_CONTENTS = {
     <p>We visited the <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK</a> showroom twice — once optimistic, once realistic after the contractor revised the quote upward. Hearing dishwasher noise levels in person mattered more than decibel numbers on PDFs.</p>
 
     <blockquote>Kitchen renovation regret is usually about what you compromised to stay under budget — not what you splurged on.</blockquote>
+
+    <h2>August — hosting without performance anxiety</h2>
+    <p>We had six people for dinner last month. Partner ran the <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK built-in oven</a> and induction cooktop like he'd been doing it for years — because he had, quietly, every weeknight. Nobody complimented the appliances. They complimented the food. That's the right outcome.</p>
+    <p>If you're one appliance away from a kitchen that feels finished, start with whatever you touch most. For us it was heat. For you it might be cleanup — <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK luxury kitchen appliances</a> make sense when you divide cost by the number of stressed dinners they prevent.</p>
 
     <h3>One appliance at a time still counts</h3>
     <p>Mid-renovation or replacing one tired unit — <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK</a> delivers luxury that performs daily, not just on guest night. Start with what you use most. Build from there.</p>
@@ -1021,6 +1064,13 @@ const ARTICLE_CONTENTS = {
     <p>She got the Christmas cardigan. Burgundy for her, navy for me. We did not look like a matching postcard — same <a href="https://www.linkbux.com/track/f101LQbea4r8uxeoGApB9trZ6uhRSDFfmnI1LDOl_bgPEALktOi6HqVpb93nfp_agd8LL5S_aTMb9Kygw_c_c?url=https%3A%2F%2Fwww.bonmarche.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Bonmarche</a> quality, different colors, which was the point.</p>
 
     <blockquote>Classic style isn't boring — it's the confidence of knowing an outfit will still work next season. Mum would add: "and when you stand up."</blockquote>
+
+    <h2>The workweek test Mum cares about</h2>
+    <p><strong>Mum:</strong> "Can you sit through a two-hour meeting without fidgeting?"</p>
+    <p><strong>Me:</strong> "That's your quality bar?"</p>
+    <p><strong>Mum:</strong> "It's the only bar that matters."</p>
+    <p>She's not wrong. The tailored trousers and blouses I added from <a href="https://www.linkbux.com/track/f101LQbea4r8uxeoGApB9trZ6uhRSDFfmnI1LDOl_bgPEALktOi6HqVpb93nfp_agd8LL5S_aTMb9Kygw_c_c?url=https%3A%2F%2Fwww.bonmarche.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Bonmarche UK workwear staples</a> pass the sit-still test — no waistband rebellion by hour two, no mysterious wrinkling when you stand to present. Classic style sounds dull until you need to look competent on three hours of sleep.</p>
+    <p>When sales hit, we still text links — she hunts <a href="https://www.linkbux.com/track/f101LQbea4r8uxeoGApB9trZ6uhRSDFfmnI1LDOl_bgPEALktOi6HqVpb93nfp_agd8LL5S_aTMb9Kygw_c_c?url=https%3A%2F%2Fwww.bonmarche.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Bonmarche classic knit layers</a>, I hunt trousers. Same store, different missions, zero fast-fashion regret.</p>
 
     <h3>Start with one link from someone who dresses for real life</h3>
     <p>For timeless pieces that fit real bodies and real schedules, browse <a href="https://www.linkbux.com/track/f101LQbea4r8uxeoGApB9trZ6uhRSDFfmnI1LDOl_bgPEALktOi6HqVpb93nfp_agd8LL5S_aTMb9Kygw_c_c?url=https%3A%2F%2Fwww.bonmarche.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Bonmarche UK</a>. Classic style for the modern woman isn't a tagline — it's what shows up in the package and still works after laundry.</p>
