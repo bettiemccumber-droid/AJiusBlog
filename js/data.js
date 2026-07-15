@@ -142,7 +142,7 @@ const BLOG_POSTS = [
     date: "2026-06-27",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80",
+    image: "https://i.etsystatic.com/39701489/r/il/3c1865/5403598599/il_510x680.5403598599_asdu.jpg",
     excerpt: "My sister's birthday was three days away and every mall gift felt interchangeable. One late-night scroll through Etsy changed how I think about giving.",
     keywords: ["Etsy", "handmade gifts", "artisan", "shopping", "unique"],
     relatedProducts: []
@@ -155,7 +155,7 @@ const BLOG_POSTS = [
     date: "2026-07-03",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1546361897-1032b4cae6bb?w=800&q=80",
+    image: "https://i.etsystatic.com/41617827/r/il/efc306/7985918505/il_510x680.7985918505_45j3.jpg",
     excerpt: "I furnished half my apartment from flea markets and Etsy vintage sellers. The pieces with stories behind them are the ones guests actually ask about.",
     keywords: ["Etsy", "vintage", "antiques", "home decor", "collectibles"],
     relatedProducts: []

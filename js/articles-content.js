@@ -550,8 +550,8 @@ const ARTICLE_CONTENTS = {
     <p>Two years and probably fifteen gifts later, <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> isn't a novelty bookmark for me anymore. It's the first place I look when a gift needs to feel chosen — not purchased on the way to something else.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1602632066350-4206c806ebdb?auto=format&fit=crop&w=900&q=80" alt="Hand-thrown ceramic mug with natural glaze imperfections">
-      <figcaption>The mug that started it — imperfect glaze, visible craftsmanship, nothing like a chain-store duplicate.</figcaption>
+      <img src="https://i.etsystatic.com/39701489/r/il/3c1865/5403598599/il_510x680.5403598599_asdu.jpg" alt="Handmade ceramic mug with cat-shaped handle from an Etsy artisan shop">
+      <figcaption>The mug that started it — handmade glaze, visible craftsmanship, nothing like a chain-store duplicate.</figcaption>
     </figure>
 
     <h2>Three gifts that actually landed (and what I learned)</h2>
@@ -580,8 +580,8 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1773739685635-76be879b058f?auto=format&fit=crop&w=900&q=80" alt="Small-batch hand-poured soy candles in glass jars on a shelf">
-      <figcaption>Hand-poured candles — my fallback when I want something tactile and useful, not another scented generic from the mall.</figcaption>
+      <img src="https://i.etsystatic.com/7371176/r/il/f6638b/7933153712/il_600x600.7933153712_huhx.jpg" alt="Personalized gold stacking rings with celestial engravings from Etsy">
+      <figcaption>Personalized jewelry — birthstones, engraved dates, inside jokes in metal instead of a generic card.</figcaption>
     </figure>
 
     <h3>If you're one gift away from panic</h3>
@@ -594,8 +594,8 @@ const ARTICLE_CONTENTS = {
     <p>It started at a flea market in Brooklyn — a chipped mirror, a vendor who knew the decade but not the designer, cash only. That Saturday taught me something chain furniture never did: objects carry history, and history makes a room feel inhabited instead of staged.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1546361897-1032b4cae6bb?auto=format&fit=crop&w=900&q=80" alt="1960s-style brass base desk lamp on a writing desk">
-      <figcaption>The brass desk lamp from a Portland seller — the vintage piece every guest asks about.</figcaption>
+      <img src="https://i.etsystatic.com/41617827/r/il/efc306/7985918505/il_510x680.7985918505_45j3.jpg" alt="Reclaimed wood entryway bench and coat hooks from an Etsy vintage home seller">
+      <figcaption>Reclaimed wood bench and wall hooks — the kind of vintage home piece every guest asks about.</figcaption>
     </figure>
 
     <h2>The office: where I learned patience</h2>
@@ -607,12 +607,18 @@ const ARTICLE_CONTENTS = {
     <p>The seller specialized in one thing — European botanical lithographs — rather than a catch-all antique shop. That's my biggest tip for <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> vintage: shops that know one era deeply beat general dealers who list "vintage item" without context.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=900&q=80" alt="Framed vintage botanical prints hung above a sofa">
-      <figcaption>The botanical prints above my sofa — three weeks of Etsy searching, one conversation piece forever.</figcaption>
+      <img src="https://i.etsystatic.com/16823567/r/il/935c3d/3987871898/il_510x680.3987871898_hmpe.jpg" alt="Hand-painted resin ocean glass from an Etsy artisan seller displayed on a shelf">
+      <figcaption>Artisan glassware on the living room shelf — handmade details that make a room feel collected, not assembled.</figcaption>
     </figure>
 
     <h2>The dining corner: a bar cart with a backstory</h2>
     <p>Mid-century bar cart from a Chicago estate sale, sold by a woman who included a note about its previous owner — a jazz musician who apparently never cleaned the silver tray. I love that detail. Unlike anonymous auction sites, <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> vintage sellers often are collectors first. They know provenance. They answer messages about hardware authenticity at 9pm.</p>
+
+    <figure>
+      <img src="https://i.etsystatic.com/ij/dfc191/8196904748/ij_680x540.8196904748_jsq68twd.jpg?version=0" alt="Vintage-style wedding table linens and champagne tower from an Etsy seller">
+      <figcaption>Entertaining pieces with provenance — table linens and serving details you won't find in a flat-pack home store.</figcaption>
+    </figure>
+
     <p>I almost lost a Danish lounge chair once by hesitating twelve hours. Set a budget before you browse, but accept that the right piece at the right price doesn't appear weekly. Save searches on <a href="https://www.linkbux.com/track/aac5dkehnPV1yVv_bShbS3KYjhmv2JkVHYHFRUY6SrWV46xbiNwlZVXaozHhkPEfAlCT6KS0b?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> and turn on notifications for specific terms — "Art Deco mirror," "70s ceramic lamp," whatever your room actually needs.</p>
 
     <aside class="article-soft-ad">
