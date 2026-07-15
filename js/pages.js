@@ -16,15 +16,32 @@ const PRODUCT_FILTERS = {
 let activeProductFilter = "all";
 
 /**
+ * Sync hero stat counters with live data
+ */
+function initHomeHeroStats() {
+  const categoryCount = Object.keys(getCategoryCounts()).length;
+  const values = [BLOG_POSTS.length, PRODUCTS.length, categoryCount];
+
+  document.querySelectorAll(".hero__stat-number").forEach((el, i) => {
+    if (values[i] !== undefined) {
+      el.dataset.count = String(values[i]);
+    }
+  });
+}
+
+/**
  * Render home page sections
  */
 function initHomePage() {
+  initHomeHeroStats();
   renderCategoryCards();
-  renderFeaturedSpotlight();
+
+  const sorted = getPostsByNewest();
+  renderFeaturedSpotlight(sorted[0]);
 
   const latestGrid = document.getElementById("latestPosts");
   if (latestGrid) {
-    latestGrid.innerHTML = BLOG_POSTS.slice(1, 4).map((post) => createBlogCardHTML(post)).join("");
+    latestGrid.innerHTML = sorted.slice(1, 4).map((post) => createBlogCardHTML(post)).join("");
   }
 
   const featuredGrid = document.getElementById("featuredProducts");
@@ -62,11 +79,12 @@ function renderCategoryCards() {
 
 /**
  * Render featured post spotlight on home page
+ * @param {Object} post - Post to feature
  */
-function renderFeaturedSpotlight() {
+function renderFeaturedSpotlight(post) {
   const container = document.getElementById("featuredSpotlight");
-  if (!container) return;
-  container.innerHTML = createFeaturedPostHTML(BLOG_POSTS[0]);
+  if (!container || !post) return;
+  container.innerHTML = createFeaturedPostHTML(post);
 }
 
 /**

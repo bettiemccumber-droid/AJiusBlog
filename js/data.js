@@ -501,6 +501,14 @@ function getPopularTags(limit = 12) {
 }
 
 /**
+ * Return blog posts sorted by date (newest first)
+ * @returns {Array<Object>}
+ */
+function getPostsByNewest() {
+  return [...BLOG_POSTS].sort((a, b) => new Date(b.date) - new Date(a.date) || b.id - a.id);
+}
+
+/**
  * Get post count per category
  * @returns {Record<string, number>}
  */
