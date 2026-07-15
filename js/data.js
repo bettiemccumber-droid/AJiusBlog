@@ -246,7 +246,7 @@ const BLOG_POSTS = [
     date: "2026-07-10",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1590658268037-6bf12065a081?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&q=80",
     excerpt: "Katya's 21vek BY cart mixed earbuds, face serum, and a coffee grinder. One checkout — and I stopped assuming general retailers are mediocre.",
     keywords: ["21vek BY", "electronics", "beauty", "appliances", "shopping"],
     relatedProducts: []
@@ -285,7 +285,7 @@ const BLOG_POSTS = [
     date: "2026-07-02",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1434389677669-e08f4a5ca670?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&q=80",
     excerpt: "My mum sent a Bonmarche UK shift dress link. I ordered burgundy instead of navy — then called her after the third wear to admit she was right.",
     keywords: ["Bonmarche", "UK fashion", "womenswear", "classic style", "plus size"],
     relatedProducts: []

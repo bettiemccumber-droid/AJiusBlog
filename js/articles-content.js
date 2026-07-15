@@ -899,7 +899,7 @@ const ARTICLE_CONTENTS = {
     <p>I used to agree with the skepticism. Watching her build that cart changed the assumption — not through marketing, through specificity.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1590658268037-6bf12065a081?auto=format&fit=crop&w=900&q=80" alt="Wireless earbuds listed in the 21vek BY electronics section">
+      <img src="https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=900&q=80" alt="Wireless earbuds listed in the 21vek BY electronics section">
       <figcaption>The Bluetooth earbuds in Katya's mixed cart — researched on-site, reviewed by real buyers, returned once without drama.</figcaption>
     </figure>
 
@@ -1052,7 +1052,7 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1434389677669-e08f4a5ca670?auto=format&fit=crop&w=900&q=80" alt="Mature woman in classic Bonmarche-style knit layers and tailored trousers">
+      <img src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=900&q=80" alt="Mature woman in classic Bonmarche-style knit layers and tailored trousers">
       <figcaption>A-line dresses, soft knitwear, comfortable trousers — clothes for school runs, office days, and Sunday lunches, not runway noise.</figcaption>
     </figure>
 
