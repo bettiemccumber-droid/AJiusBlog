@@ -311,7 +311,7 @@ const BLOG_POSTS = [
     date: "2026-07-22",
     readTime: 10,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
     excerpt: "Mile nine of my first half-marathon training block, my shins rebelled. A running club friend pointed me to Marathon Sports — and explained why gear from 1975 still matters in 2026.",
     keywords: ["Marathon Sports", "athletic gear", "running shoes", "sportswear", "fitness"],
     relatedProducts: []

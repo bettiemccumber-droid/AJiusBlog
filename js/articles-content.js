@@ -1158,11 +1158,6 @@ const ARTICLE_CONTENTS = {
     <p>Mile nine of my first half-marathon training block, my left shin started humming — not pain exactly, the warning before pain. I was wearing "running shoes" bought online because the color matched my gym bag. They were not running shoes. They were fashion sneakers with ambition.</p>
     <p>At the Tuesday track session, Coach Dana didn't lecture. She asked one question: "Where did you get fitted?" I said Amazon. She winced gently and sent me a link to <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a>. "They've been doing this since 1975. You don't guess at mile nine."</p>
 
-    <figure>
-      <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80" alt="High-quality running shoes built for serious athletic training">
-      <figcaption>The difference between fashion sneakers and actual running shoes — support, fit, miles logged without rebellion.</figcaption>
-    </figure>
-
     <h2>Why "athletic gear" from 1975 still matters</h2>
     <p>Fifty years in sport retail isn't nostalgia — it's accumulated fit knowledge. <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> started when runners bought shoes from people who actually ran. That culture survived the move online: categories organized by sport, brands chosen for performance not just logos, sizing guidance that assumes your feet swell at mile eight.</p>
     <p>I browsed <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">marathonsports.com</a> the way Dana suggested — running first, then cross-training, then apparel — instead of scrolling generic "sports" pages where everything looks equally important and nothing is.</p>
@@ -1172,7 +1167,7 @@ const ARTICLE_CONTENTS = {
     <p>What surprised me was selection depth. Road shoes, trail shoes, racing flats, recovery slides — not one wall of identical silhouettes in different colors. <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">High-quality athletic gear</a> means the right tool for the workout you're actually doing, not the workout you're posting about.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1452626038306-6fff9f9a6daf?auto=format&fit=crop&w=900&q=80" alt="Runner training on an outdoor track for a half marathon">
+      <img src="https://images.pexels.com/photos/2402777/pexels-photo-2402777.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Runner training on an outdoor track for a half marathon">
       <figcaption>Mile nine taught me gear isn't cosmetic — it's the difference between finishing a block and sitting out three weeks.</figcaption>
     </figure>
 
@@ -1186,7 +1181,7 @@ const ARTICLE_CONTENTS = {
     <p>Team sports gear, hiking layers, gym basics — same principle. One retailer that treats specialty categories seriously instead of dumping them under a single "accessories" tab. That's the trust built since 1975: you come back because the first purchase survived real use.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee663f4?auto=format&fit=crop&w=900&q=80" alt="Athletic apparel and fitness equipment for serious training">
+      <img src="https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Athletic apparel and fitness equipment for serious training">
       <figcaption>Apparel and recovery gear matter once you're logging consistent miles — chafe and stiffness don't care about your shoe brand.</figcaption>
     </figure>
 
