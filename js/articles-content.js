@@ -1198,5 +1198,55 @@ const ARTICLE_CONTENTS = {
 
     <h3>Start with the thing that hurt first</h3>
     <p>If you're building a training block, fix footwear before you optimize everything else. Browse <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> by sport, not by sale banner — your trusted source for high-quality athletic gear since 1975 earned that line one fitted shoe at a time.</p>
+  `,
+
+  "shop-etsy-global-marketplace-creative-sellers": `
+    <p>Three tracking numbers arrived in one week — Lisbon, Portland, Vilnius. Pottery, letterpress prints, a hand-shaped pendant. Same checkout account, same saved addresses, three different <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">creative sellers</a> I'd never have found walking a mall.</p>
+    <p>That's when the "100+ million items" headline on <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> stopped sounding like marketing and started sounding like a geography problem — in a good way.</p>
+
+    <figure>
+      <img src="https://i.etsystatic.com/14294620/r/il/a5e4b5/8193349200/il_794xN.8193349200_kpnr.jpg" alt="Colorful handmade ceramic letter decor from an Etsy creative seller">
+      <figcaption>Playful ceramic pieces from a small studio — the kind of item that doesn't exist in a chain home store catalog.</figcaption>
+    </figure>
+
+    <h2>What a global marketplace actually feels like</h2>
+    <p>Mass retailers flatten everything into the same seasonal palette. <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy's global marketplace</a> does the opposite — search "ceramic initial" and you get a dozen aesthetic worlds, not one buyer-approved beige.</p>
+    <p>I didn't need 100 million options. I needed depth in the niches I care about: studio pottery, independent jewelry, wall art that isn't mass-printed. <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> organizes by category and seller story, not warehouse aisle. Filters for location, price, handmade, vintage — useful when you're hunting something specific, not browsing a superstore endcap.</p>
+
+    <h2>Creative sellers — why the shop name matters</h2>
+    <p>Each package included a note — not AI-generated gratitude, actual handwriting or typed shop voice. The Lisbon potter explained glaze variation. The printmaker in Oregon photographed packaging before ship. The Vilnius jeweler answered a sizing question in four hours.</p>
+    <p>That's the difference between a marketplace and a mall: you're buying from someone whose shop name is on the line. <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy sellers</a> live and die on reviews, response time, and repeat customers. One bad batch of glaze and their rating tells the story. Accountability without a corporate help desk script.</p>
+
+    <figure>
+      <img src="https://i.etsystatic.com/ij/cdd851/8224113600/ij_600x600.8224113600_5n4r5xi6.jpg" alt="Handmade red flower pendant necklace from an Etsy jewelry seller">
+      <figcaption>Independent jewelry from a Vilnius shop — sizing questions answered in hours, not ticket queues.</figcaption>
+    </figure>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Search smarter</div>
+      <p>Save shops, not just items. When you find a <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">creative seller</a> whose aesthetic matches yours, follow the shop — their new drops beat re-searching 100 million listings every time.</p>
+    </aside>
+
+    <h2>Categories I didn't expect to use</h2>
+    <p>Beyond gifts and decor: custom pet tags, replacement vintage appliance knobs, wedding signage, cosplay props, printable planners from designers who actually iterate. The long tail is the point. <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Shop Etsy's global marketplace</a> when Google returns forum threads from 2014 and Amazon returns generic knockoffs — niche hardware, odd sizes, "does anyone still make this?"</p>
+    <p>I found a replacement knob for my grandmother's radio through a restoration shop in Ohio. Try that at Target. The <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy marketplace</a> earns its scale not from one blockbuster product but from millions of small solves.</p>
+
+    <figure>
+      <img src="https://i.etsystatic.com/16823567/r/il/935c3d/3987871898/il_510x680.3987871898_hmpe.jpg" alt="Hand-painted resin ocean art glass from an Etsy artisan shop">
+      <figcaption>Artisan glassware from an independent studio — categories chain retailers don't bother stocking.</figcaption>
+    </figure>
+
+    <h2>How I shop without drowning in choice</h2>
+    <p>100+ million items is only overwhelming if you treat it like a single store. My routine: search specific, filter by shop rating 4.8+, read the three-star reviews first (more honest than five-star praise), message the seller if dimensions matter. Buy one low-stakes item from a new shop before a custom order.</p>
+    <p>Most of my repeat spending now goes to five favorite shops across three countries — discovered through <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy Affiliate</a> browsing sessions that started with one specific need and ended with saved shops I'll check monthly. That's healthier than treating the homepage like a slot machine.</p>
+
+    <blockquote>A global marketplace isn't about buying more — it's about finding the one thing mass retail will never stock.</blockquote>
+
+    <h2>When Etsy beats every alternative</h2>
+    <p>Custom dimensions. Small-batch materials. Vintage with provenance. Independent artists who ship internationally because their entire business is online. If your need has a story — wedding, restoration, gift for someone who hates generic — <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> is usually where the answer lives. Not always cheapest. Often most accurate.</p>
+    <p>Three countries, one week, zero mall parking lots. That's the workflow I keep coming back to — not because I love packages, because I love buying from people whose names are on the work.</p>
+
+    <h3>Pick one niche and go deep</h3>
+    <p>Shop <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy's global marketplace</a> with a real problem to solve — replacement part, specific gift, one room that needs personality. Follow two shops you love. The 100+ million items matter less than the five sellers who get your taste.</p>
   `
 };

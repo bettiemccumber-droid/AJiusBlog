@@ -315,6 +315,19 @@ const BLOG_POSTS = [
     excerpt: "Mile nine of my first half-marathon training block, my shins rebelled. A running club friend pointed me to Marathon Sports — and explained why gear from 1975 still matters in 2026.",
     keywords: ["Marathon Sports", "athletic gear", "running shoes", "sportswear", "fitness"],
     relatedProducts: []
+  },
+  {
+    id: 25,
+    slug: "shop-etsy-global-marketplace-creative-sellers",
+    title: "Shop Etsy's Global Marketplace: 100+ Million Items from Creative Sellers",
+    category: "Product Review",
+    date: "2026-07-25",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://i.etsystatic.com/14294620/r/il/a5e4b5/8193349200/il_794xN.8193349200_kpnr.jpg",
+    excerpt: "One week, three packages from three countries — pottery, prints, jewelry — all from independent shops I'd never have found without Etsy's global marketplace.",
+    keywords: ["Etsy", "marketplace", "handmade", "creative sellers", "artisan"],
+    relatedProducts: []
   }
 ];
 
