@@ -337,7 +337,7 @@ const BLOG_POSTS = [
     date: "2026-07-25",
     readTime: 10,
     author: "Alex Jius",
-    image: "https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_079f4fb55b755f6f198bee97d7c95390.png",
+    image: "https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_c3d55318de64f77efb05f56559c3ce80.jpg",
     excerpt: "Moving into a Minsk flat with two kids meant one list: sofa, school gear, garden tools, everyday lifestyle basics. One 21vek.by cart handled all of it.",
     keywords: ["21vek BY", "21vek.by", "home", "kids", "lifestyle", "Belarus"],
     relatedProducts: []

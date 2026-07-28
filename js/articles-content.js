@@ -1194,11 +1194,6 @@ const ARTICLE_CONTENTS = {
     <p>Three tracking numbers arrived in one week — Lisbon, Portland, Vilnius. Pottery, letterpress prints, a hand-shaped pendant. Same checkout account, same saved addresses, three different <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">creative sellers</a> I'd never have found walking a mall.</p>
     <p>That's when the "100+ million items" headline on <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> stopped sounding like marketing and started sounding like a geography problem — in a good way.</p>
 
-    <figure>
-      <img src="https://i.etsystatic.com/14294620/r/il/a5e4b5/8193349200/il_794xN.8193349200_kpnr.jpg" alt="Colorful handmade ceramic letter decor from an Etsy creative seller">
-      <figcaption>Playful ceramic pieces from a small studio — the kind of item that doesn't exist in a chain home store catalog.</figcaption>
-    </figure>
-
     <h2>What a global marketplace actually feels like</h2>
     <p>Mass retailers flatten everything into the same seasonal palette. <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy's global marketplace</a> does the opposite — search "ceramic initial" and you get a dozen aesthetic worlds, not one buyer-approved beige.</p>
     <p>I didn't need 100 million options. I needed depth in the niches I care about: studio pottery, independent jewelry, wall art that isn't mass-printed. <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy</a> organizes by category and seller story, not warehouse aisle. Filters for location, price, handmade, vintage — useful when you're hunting something specific, not browsing a superstore endcap.</p>
@@ -1222,8 +1217,8 @@ const ARTICLE_CONTENTS = {
     <p>I found a replacement knob for my grandmother's radio through a restoration shop in Ohio. Try that at Target. The <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy marketplace</a> earns its scale not from one blockbuster product but from millions of small solves.</p>
 
     <figure>
-      <img src="https://i.etsystatic.com/16823567/r/il/935c3d/3987871898/il_510x680.3987871898_hmpe.jpg" alt="Hand-painted resin ocean art glass from an Etsy artisan shop">
-      <figcaption>Artisan glassware from an independent studio — categories chain retailers don't bother stocking.</figcaption>
+      <img src="https://i.etsystatic.com/39181788/c/2000/2000/0/432/il/f230fe/6687786613/il_600x600.6687786613_hy81.jpg" alt="Handmade bridal veil from an independent Etsy wedding atelier">
+      <figcaption>Wedding veils from a small atelier — niche categories chain retailers don't bother stocking.</figcaption>
     </figure>
 
     <h2>How I shop without drowning in choice</h2>
@@ -1244,17 +1239,12 @@ const ARTICLE_CONTENTS = {
     <p>The moving checklist on our fridge had three columns — Home, Kids, Lifestyle — and seventeen open tabs that all wanted separate deliveries. Sofa. School headphones. A football goal for the yard. Sunscreen. A washing machine that wouldn't die in year two. My partner looked at the browser chaos and said, "Just use <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek.by</a> like everyone in Minsk."</p>
     <p>She was right. Not because one site solves every problem magically — because <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> treats home, kids, and lifestyle as equal aisles instead of afterthought categories bolted onto electronics.</p>
 
-    <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_079f4fb55b755f6f198bee97d7c95390.png" alt="Mio Tesoro NOMAN sofa from the 21vek.by home furniture catalog">
-      <figcaption>Home first — a sofa that fits the flat, ordered from the same account as the kids' gear waiting in the cart.</figcaption>
-    </figure>
-
     <h2>Home — the column that ate the budget</h2>
     <p>Furniture, appliances, garden tools — the unglamorous infrastructure of a new flat. We started with a sofa from the <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY home section</a> because sitting on moving boxes gets old by day three. Dimensions listed clearly, fabric type specified, reviews from people who actually received delivery — not just unboxed in a studio.</p>
     <p>The washing machine came next — Almaz Lux, same brand my colleague's parents still run six years later. Filter by capacity, energy class, installation options on <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek.by</a> beat driving to three appliance shops with two tired kids in the back seat.</p>
 
     <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/8221/721/023_almaz_luks_06_ec06c93d08090d8e3f748634105953c6.jpg" alt="Almaz Lux washing machine from 21vek.by home appliances">
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/8221/721/023_almaz_luks_06_79e2553a895a8cf01d379fba04ed4574.jpg" alt="Almaz Lux washing machine from 21vek.by home appliances">
       <figcaption>Major appliances with specs you can compare at midnight — when parents actually have time to research.</figcaption>
     </figure>
 
@@ -1277,8 +1267,8 @@ const ARTICLE_CONTENTS = {
     <p>I added a garden cultivator for the small plot behind the flat and a pair of AirPods for the metro ride. Different categories, same checkout. That's the lifestyle column in practice — not luxury, just the everyday items that keep a household running smoothly.</p>
 
     <figure>
-      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10008/414/10008414_3c58db6651230c0855eb6c84da12bb49.png" alt="Garvill garden cultivator from 21vek.by home and garden">
-      <figcaption>Garden tools and commute earbuds in one order — lifestyle means everyday routines, not impulse luxury.</figcaption>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/9292/875/airpods4mxp63_apple_9292875_6bd8407bf6d5ceee8602e3fad4c3511f.jpg" alt="Apple AirPods 4 listed in the 21vek.by electronics section">
+      <figcaption>Commute earbuds beside garden tools in one order — lifestyle means everyday routines, not impulse luxury.</figcaption>
     </figure>
 
     <h2>Why one-stop beats six tabs</h2>
