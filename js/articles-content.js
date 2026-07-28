@@ -1140,7 +1140,7 @@ const ARTICLE_CONTENTS = {
     <p>For sport and fishing lines, rubberized nose pads and larger coverage matter more than logo placement. For city errands, lighter frames win. The site makes that distinction clearer than most eyewear brands that dump everything into one "sunglasses" bucket.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1511499767150-a48a237f008b?auto=format&fit=crop&w=900&q=80" alt="Stylish polarized sunglasses ready for a sunny outdoor day">
+      <img src="https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Stylish polarized sunglasses ready for a sunny outdoor day">
       <figcaption>Daily wear or weekend hike — frame fit matters as much as lens tech when you're wearing them for hours.</figcaption>
     </figure>
 
