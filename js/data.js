@@ -289,6 +289,32 @@ const BLOG_POSTS = [
     excerpt: "My mum sent a Bonmarche UK shift dress link. I ordered burgundy instead of navy — then called her after the third wear to admit she was right.",
     keywords: ["Bonmarche", "UK fashion", "womenswear", "classic style", "plus size"],
     relatedProducts: []
+  },
+  {
+    id: 23,
+    slug: "see-world-clarity-color-maui-jim-lenses",
+    title: "See the World with Unmatched Clarity and Color Through Maui Jim's Lenses",
+    category: "Product Review",
+    date: "2026-07-21",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80",
+    excerpt: "Gas-station shades on a coastal drive left me squinting at a gray ocean. One borrowed pair of Maui Jim sunglasses later, I understood what lens quality actually means.",
+    keywords: ["Maui Jim", "polarized sunglasses", "PolarizedPlus2", "eyewear", "outdoor"],
+    relatedProducts: []
+  },
+  {
+    id: 24,
+    slug: "marathon-sports-trusted-athletic-gear-since-1975",
+    title: "Marathon Sports: Your Trusted Source for High-Quality Athletic Gear Since 1975",
+    category: "Product Review",
+    date: "2026-07-22",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    excerpt: "Mile nine of my first half-marathon training block, my shins rebelled. A running club friend pointed me to Marathon Sports — and explained why gear from 1975 still matters in 2026.",
+    keywords: ["Marathon Sports", "athletic gear", "running shoes", "sportswear", "fitness"],
+    relatedProducts: []
   }
 ];
 

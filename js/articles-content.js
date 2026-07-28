@@ -1101,5 +1101,102 @@ const ARTICLE_CONTENTS = {
 
     <h3>Start with one link from someone who dresses for real life</h3>
     <p>For timeless pieces that fit real bodies and real schedules, browse <a href="https://www.linkbux.com/track/f101LQbea4r8uxeoGApB9trZ6uhRSDFfmnI1LDOl_bgPEALktOi6HqVpb93nfp_agd8LL5S_aTMb9Kygw_c_c?url=https%3A%2F%2Fwww.bonmarche.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Bonmarche UK</a>. Classic style for the modern woman isn't a tagline — it's what shows up in the package and still works after laundry.</p>
+  `,
+
+  "see-world-clarity-color-maui-jim-lenses": `
+    <p>Halfway down the coastal highway, my eyes started to ache — not from the drive, from the sunglasses. Gas-station polarized lenses that cost twelve dollars and promised "UV400 protection" on a sticker. The ocean looked flat and gray, like someone had turned the saturation down in real life.</p>
+    <p>At a roadside pullout, my friend Marco handed me his <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> pair without ceremony. "Try these before you blame California."</p>
+    <p>I put them on. The water didn't just get darker — it got <em>bluer</em>. Reef greens separated from deep navy. Cloud edges stopped smearing into the sky. I stood there longer than I meant to, which is how I know the difference wasn't placebo.</p>
+
+    <figure>
+      <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=900&q=80" alt="Premium polarized sunglasses overlooking a bright blue ocean">
+      <figcaption>The moment I understood lens quality — not darker, but clearer. Color where there had been gray haze.</figcaption>
+    </figure>
+
+    <h2>What cheap lenses actually do to your eyes</h2>
+    <p>Cheap sunglasses often darken without protecting well — or protect without fixing glare. You squint less but see worse. On water, snow, or wet pavement, reflected light still fights your eyes. That's the fatigue I felt by mile sixty: not sunburn, visual exhaustion.</p>
+    <p><a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> built its reputation on polarized lenses that cut glare <em>and</em> enhance color — not Instagram filters, but optics tuned for how humans actually see outdoors. Born in Hawaii, tested on bright water and volcanic rock. That origin story sounds marketing-heavy until you drive a coastline with the wrong pair and then the right one.</p>
+
+    <h2>PolarizedPlus2 — the name is clunky, the effect isn't</h2>
+    <p>Marco's pair used <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">PolarizedPlus2</a> lens technology — Maui Jim's proprietary stack that blocks 99.9% of glare while boosting contrast in reds, greens, and blues. On paper: jargon. On a fishing pier at 4pm when the sun sits low and every surface becomes a mirror: the difference between guessing where the water ends and actually seeing it.</p>
+    <p>I later read that <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim lenses</a> are color-enhancing polarized filters, not just tinted plastic. That matched what I saw — coral tones in tide pools I'd walked past ten minutes earlier without noticing.</p>
+
+    <figure>
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80" alt="Vivid turquoise ocean water seen through quality polarized lenses">
+      <figcaption>Coastal color is the test — glare off water exposes weak lenses faster than any spec sheet.</figcaption>
+    </figure>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Lens shopping note</div>
+      <p>If you live near water, drive long sunny commutes, or fish on weekends, prioritize <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">polarized lenses</a> over frame fashion. A great-looking pair that leaves you squinting is still the wrong pair.</p>
+    </aside>
+
+    <h2>Choosing a frame on mauijim.com without guessing</h2>
+    <p>I ordered my own pair two weeks after that drive — not Marco's style, mine. The <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> site splits frames by use: everyday lifestyle, sport, fishing, golf, driving. That sounds like marketing segmentation until you realize sport frames sit differently on your nose when you're moving — less slide, more coverage.</p>
+    <p>I wanted daily wear with enough wrap for weekend hikes. Narrowed to two styles, checked lens color options (Neutral Grey for true color, Maui HT for low-light mornings, Maui Rose for extra contrast on water), and read the fit notes. Premium <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim sunglasses</a> aren't impulse-priced; treating lens color as a functional choice, not an aesthetic afterthought, makes the spend easier to justify.</p>
+
+    <h2>Prescription, sport, and the one-pair problem</h2>
+    <p>What I didn't know until I browsed properly: <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> offers prescription-ready frames and Rx lens programs — relevant if you're tired of clip-ons that scratch or fit awkwardly over everyday glasses. Marco wears contacts and swaps to his driving pair; my partner needs Rx and almost bought a second cheap set before I intervened with the same coastal argument.</p>
+    <p>For sport and fishing lines, rubberized nose pads and larger coverage matter more than logo placement. For city errands, lighter frames win. The site makes that distinction clearer than most eyewear brands that dump everything into one "sunglasses" bucket.</p>
+
+    <figure>
+      <img src="https://images.unsplash.com/photo-1511499767150-a48a237f008b?auto=format&fit=crop&w=900&q=80" alt="Stylish polarized sunglasses ready for a sunny outdoor day">
+      <figcaption>Daily wear or weekend hike — frame fit matters as much as lens tech when you're wearing them for hours.</figcaption>
+    </figure>
+
+    <blockquote>Good lenses don't make the world prettier. They show you what was already there — without the glare pretending to be fog.</blockquote>
+
+    <h2>When premium eyewear earns its price tag</h2>
+    <p>I'm not the person who upgrades everything to luxury labels. I wear discount sneakers and a laptop with a cracked corner. But I spend hours outside — driving, walking, sitting on bleachers at my nephew's games — and my eyes don't get a reset button. One pair of <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> sunglasses replaced three almost-right pairs collecting dust in my glove box. That math worked for me.</p>
+    <p>If your current shades darken the world but don't clarify it, browse by lens first on <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">mauijim.com</a> — compare <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">PolarizedPlus2</a> options against what you actually do outdoors. Then pick a frame that fits your face, not a influencer's.</p>
+
+    <h3>Bring them to real light</h3>
+    <p>See the world with unmatched clarity and color through <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim's lenses</a> on your next bright day — near water if you can. The title isn't poetry. It's literally what happened when I swapped lenses at a roadside pullout and finally saw the ocean in color.</p>
+  `,
+
+  "marathon-sports-trusted-athletic-gear-since-1975": `
+    <p>Mile nine of my first half-marathon training block, my left shin started humming — not pain exactly, the warning before pain. I was wearing "running shoes" bought online because the color matched my gym bag. They were not running shoes. They were fashion sneakers with ambition.</p>
+    <p>At the Tuesday track session, Coach Dana didn't lecture. She asked one question: "Where did you get fitted?" I said Amazon. She winced gently and sent me a link to <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a>. "They've been doing this since 1975. You don't guess at mile nine."</p>
+
+    <figure>
+      <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80" alt="High-quality running shoes built for serious athletic training">
+      <figcaption>The difference between fashion sneakers and actual running shoes — support, fit, miles logged without rebellion.</figcaption>
+    </figure>
+
+    <h2>Why "athletic gear" from 1975 still matters</h2>
+    <p>Fifty years in sport retail isn't nostalgia — it's accumulated fit knowledge. <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> started when runners bought shoes from people who actually ran. That culture survived the move online: categories organized by sport, brands chosen for performance not just logos, sizing guidance that assumes your feet swell at mile eight.</p>
+    <p>I browsed <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">marathonsports.com</a> the way Dana suggested — running first, then cross-training, then apparel — instead of scrolling generic "sports" pages where everything looks equally important and nothing is.</p>
+
+    <h2>The shoe swap that saved my training block</h2>
+    <p>I replaced the pretty sneakers with a properly fitted daily trainer from the <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports running shoes</a> section — neutral cushioning, half size up from my casual shoe, room for orthotics if I needed them later. First long run after the swap: no shin hum. Not magic. Mechanics.</p>
+    <p>What surprised me was selection depth. Road shoes, trail shoes, racing flats, recovery slides — not one wall of identical silhouettes in different colors. <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">High-quality athletic gear</a> means the right tool for the workout you're actually doing, not the workout you're posting about.</p>
+
+    <figure>
+      <img src="https://images.unsplash.com/photo-1452626038306-6fff9f9a6daf?auto=format&fit=crop&w=900&q=80" alt="Runner training on an outdoor track for a half marathon">
+      <figcaption>Mile nine taught me gear isn't cosmetic — it's the difference between finishing a block and sitting out three weeks.</figcaption>
+    </figure>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Coach Dana's rule</div>
+      <p>Buy shoes for the miles you're running this month, not the race you're dreaming about next year. <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> makes that easier by sorting footwear by use — daily trainer before carbon plate fantasy.</p>
+    </aside>
+
+    <h2>Beyond shoes — apparel and equipment that lasts</h2>
+    <p>Once the shoes worked, I stopped treating everything else as an afterthought. Moisture-wicking tops that don't chafe under a hydration vest. Shorts with pockets that don't bounce. A foam roller that isn't a toy. The <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> apparel and fitness equipment sections read like a checklist from someone who's been to a hundred race expos — brands athletes actually reorder, not clearance bins dressed up as deals.</p>
+    <p>Team sports gear, hiking layers, gym basics — same principle. One retailer that treats specialty categories seriously instead of dumping them under a single "accessories" tab. That's the trust built since 1975: you come back because the first purchase survived real use.</p>
+
+    <figure>
+      <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee663f4?auto=format&fit=crop&w=900&q=80" alt="Athletic apparel and fitness equipment for serious training">
+      <figcaption>Apparel and recovery gear matter once you're logging consistent miles — chafe and stiffness don't care about your shoe brand.</figcaption>
+    </figure>
+
+    <h2>Who Marathon Sports is actually for</h2>
+    <p>Not just marathoners — despite the name. Weekend hikers replacing worn boots. Parents outfitting kids for soccer season. Gym regulars tired of leggings that go sheer after three washes. Anyone who'd rather buy <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">athletic gear</a> once than replace it twice because the first pair was almost right.</p>
+    <p>I'm still a slow half-marathon trainee. But I'm a trainee with shoes that match my gait, tops that survive long runs, and a site I trust when something wears out mid-season. <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> didn't make me fast. It kept me on the road.</p>
+
+    <blockquote>The best athletic gear isn't the most expensive — it's the gear that survives the miles you're actually running.</blockquote>
+
+    <h3>Start with the thing that hurt first</h3>
+    <p>If you're building a training block, fix footwear before you optimize everything else. Browse <a href="https://www.linkbux.com/track/00b8WgGDdZVwr6KYLWONzpQ5JYuafgKRrr6me_alpV9oRac2zhOvK8uvIktFKa6kOaTH15z7Ig_bqUUg_c_c?url=https%3A%2F%2Fwww.marathonsports.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Marathon Sports</a> by sport, not by sale banner — your trusted source for high-quality athletic gear since 1975 earned that line one fitted shoe at a time.</p>
   `
 };
