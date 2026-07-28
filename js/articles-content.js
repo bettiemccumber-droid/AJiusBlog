@@ -1248,5 +1248,56 @@ const ARTICLE_CONTENTS = {
 
     <h3>Pick one niche and go deep</h3>
     <p>Shop <a href="https://www.linkbux.com/track/3e84zkHPnkNEGSJIU_aPAE4p4rWyV6szpZUNLUHsneZTXnqHViVk8W_buTMe_bE_bgz7qjtQ_bYam?url=https%3A%2F%2Fwww.etsy.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Etsy's global marketplace</a> with a real problem to solve — replacement part, specific gift, one room that needs personality. Follow two shops you love. The 100+ million items matter less than the five sellers who get your taste.</p>
+  `,
+
+  "21vek-by-home-kids-lifestyle-needs": `
+    <p>The moving checklist on our fridge had three columns — Home, Kids, Lifestyle — and seventeen open tabs that all wanted separate deliveries. Sofa. School headphones. A football goal for the yard. Sunscreen. A washing machine that wouldn't die in year two. My partner looked at the browser chaos and said, "Just use <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek.by</a> like everyone in Minsk."</p>
+    <p>She was right. Not because one site solves every problem magically — because <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> treats home, kids, and lifestyle as equal aisles instead of afterthought categories bolted onto electronics.</p>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_079f4fb55b755f6f198bee97d7c95390.png" alt="Mio Tesoro NOMAN sofa from the 21vek.by home furniture catalog">
+      <figcaption>Home first — a sofa that fits the flat, ordered from the same account as the kids' gear waiting in the cart.</figcaption>
+    </figure>
+
+    <h2>Home — the column that ate the budget</h2>
+    <p>Furniture, appliances, garden tools — the unglamorous infrastructure of a new flat. We started with a sofa from the <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY home section</a> because sitting on moving boxes gets old by day three. Dimensions listed clearly, fabric type specified, reviews from people who actually received delivery — not just unboxed in a studio.</p>
+    <p>The washing machine came next — Almaz Lux, same brand my colleague's parents still run six years later. Filter by capacity, energy class, installation options on <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek.by</a> beat driving to three appliance shops with two tired kids in the back seat.</p>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/8221/721/023_almaz_luks_06_ec06c93d08090d8e3f748634105953c6.jpg" alt="Almaz Lux washing machine from 21vek.by home appliances">
+      <figcaption>Major appliances with specs you can compare at midnight — when parents actually have time to research.</figcaption>
+    </figure>
+
+    <h2>Kids — the column that can't wait</h2>
+    <p>School starts whether the flat is finished or not. Headphones for online lessons, a portable football goal for the yard, winter boots when September turns — all scattered across the <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY kids and family aisle</a>, not a separate toy store with inflated margins.</p>
+    <p>I compare specs once, save to wishlist, buy when a promo hits. Same account, same delivery address. The football goal arrived the same week as the sofa — one signature, one less afternoon lost to errands.</p>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/6364/846/jc180_sundays_661ccafe5ec08.jpeg" alt="Sundays JC-180 portable football goal from 21vek.by kids and sports">
+      <figcaption>Backyard sports gear beside school headphones — kids' needs don't sort themselves into separate stores.</figcaption>
+    </figure>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Moving-week tip</div>
+      <p>Build one shared wishlist on <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a> — Home, Kids, Lifestyle columns on paper, one cart online. Check the promo section before checkout; bundle deals on appliances and furniture rotate weekly.</p>
+    </aside>
+
+    <h2>Lifestyle — the small stuff that adds up</h2>
+    <p>Sunscreen, garden tools, wireless earbuds for my commute — lifestyle sounds vague until you're rebuilding daily routines in a new city. The <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY NEW</a> catalog depth shows here: Garvill garden tools next to Apple earbuds, beauty basics next to kitchen smallware — not a convenience store selection, a hypermarket that actually stocks depth.</p>
+    <p>I added a garden cultivator for the small plot behind the flat and a pair of AirPods for the metro ride. Different categories, same checkout. That's the lifestyle column in practice — not luxury, just the everyday items that keep a household running smoothly.</p>
+
+    <figure>
+      <img src="https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10008/414/10008414_3c58db6651230c0855eb6c84da12bb49.png" alt="Garvill garden cultivator from 21vek.by home and garden">
+      <figcaption>Garden tools and commute earbuds in one order — lifestyle means everyday routines, not impulse luxury.</figcaption>
+    </figure>
+
+    <h2>Why one-stop beats six tabs</h2>
+    <p>Order history matters when you can't remember which blender model you bought in 2022 — or which headphone size fit your kid last spring. <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek.by</a> keeps that history in one account. Returns documented. Reviews you can trust. Delivery windows that don't require taking a half-day off for each separate retailer.</p>
+    <p>We're not loyal because of a jingle. We're loyal because the sofa survived delivery, the washing machine installed cleanly, the kids' gear arrived before school, and the garden tool still works after a muddy autumn. Boring reliability — the best kind.</p>
+
+    <blockquote>The best one-stop shop for home, kids, and lifestyle isn't about buying more — it's about finishing the list without losing another Saturday.</blockquote>
+
+    <h3>Open the list you already have</h3>
+    <p>Whether you're moving, restocking, or replacing something that finally died, start with your real columns — Home, Kids, Lifestyle — on <a href="https://www.linkbux.com/track/a6f2ijboi_a6_aLdbv_beOkYQEYR_bd0hRdVDZ_baP6XM1QY8yRO7FO34nse_aPXgrdhlAhGnj?url=https%3A%2F%2Fwww.21vek.by%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">21vek BY</a>. One account, one delivery rhythm, one less browser tab army.</p>
   `
 };

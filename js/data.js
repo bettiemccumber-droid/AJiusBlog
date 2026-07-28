@@ -328,6 +328,19 @@ const BLOG_POSTS = [
     excerpt: "One week, three packages from three countries — pottery, prints, jewelry — all from independent shops I'd never have found without Etsy's global marketplace.",
     keywords: ["Etsy", "marketplace", "handmade", "creative sellers", "artisan"],
     relatedProducts: []
+  },
+  {
+    id: 26,
+    slug: "21vek-by-home-kids-lifestyle-needs",
+    title: "21vek.by: Your One-Stop Shop for Home, Kids & Lifestyle Needs",
+    category: "Product Review",
+    date: "2026-07-25",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://cdn21vek.by/imgproxy/preview_b/plain/img/galleries/10524/572/10524572_079f4fb55b755f6f198bee97d7c95390.png",
+    excerpt: "Moving into a Minsk flat with two kids meant one list: sofa, school gear, garden tools, everyday lifestyle basics. One 21vek.by cart handled all of it.",
+    keywords: ["21vek BY", "21vek.by", "home", "kids", "lifestyle", "Belarus"],
+    relatedProducts: []
   }
 ];
 
