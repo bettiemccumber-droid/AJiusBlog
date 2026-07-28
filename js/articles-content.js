@@ -1108,11 +1108,6 @@ const ARTICLE_CONTENTS = {
     <p>At a roadside pullout, my friend Marco handed me his <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> pair without ceremony. "Try these before you blame California."</p>
     <p>I put them on. The water didn't just get darker — it got <em>bluer</em>. Reef greens separated from deep navy. Cloud edges stopped smearing into the sky. I stood there longer than I meant to, which is how I know the difference wasn't placebo.</p>
 
-    <figure>
-      <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=900&q=80" alt="Premium polarized sunglasses overlooking a bright blue ocean">
-      <figcaption>The moment I understood lens quality — not darker, but clearer. Color where there had been gray haze.</figcaption>
-    </figure>
-
     <h2>What cheap lenses actually do to your eyes</h2>
     <p>Cheap sunglasses often darken without protecting well — or protect without fixing glare. You squint less but see worse. On water, snow, or wet pavement, reflected light still fights your eyes. That's the fatigue I felt by mile sixty: not sunburn, visual exhaustion.</p>
     <p><a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim</a> built its reputation on polarized lenses that cut glare <em>and</em> enhance color — not Instagram filters, but optics tuned for how humans actually see outdoors. Born in Hawaii, tested on bright water and volcanic rock. That origin story sounds marketing-heavy until you drive a coastline with the wrong pair and then the right one.</p>
@@ -1122,7 +1117,7 @@ const ARTICLE_CONTENTS = {
     <p>I later read that <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim lenses</a> are color-enhancing polarized filters, not just tinted plastic. That matched what I saw — coral tones in tide pools I'd walked past ten minutes earlier without noticing.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80" alt="Vivid turquoise ocean water seen through quality polarized lenses">
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80" alt="Vivid turquoise ocean water seen through quality polarized lenses">
       <figcaption>Coastal color is the test — glare off water exposes weak lenses faster than any spec sheet.</figcaption>
     </figure>
 
