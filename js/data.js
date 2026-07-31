@@ -341,6 +341,32 @@ const BLOG_POSTS = [
     excerpt: "Moving into a Minsk flat with two kids meant one list: sofa, school gear, garden tools, everyday lifestyle basics. One 21vek.by cart handled all of it.",
     keywords: ["21vek BY", "21vek.by", "home", "kids", "lifestyle", "Belarus"],
     relatedProducts: []
+  },
+  {
+    id: 27,
+    slug: "cosm-cutting-edge-tech-unforgettable-events",
+    title: "Cosm: Where Cutting-Edge Tech Meets Unforgettable Events",
+    category: "Product Review",
+    date: "2026-07-21",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&q=80",
+    excerpt: "My friend dragged me to Cosm LA for an NBA game I could've watched at home. Twenty minutes in, I understood why shared reality beats another night on the couch.",
+    keywords: ["Cosm", "shared reality", "immersive entertainment", "LED dome", "live events"],
+    relatedProducts: []
+  },
+  {
+    id: 28,
+    slug: "cosm-premier-destination-spectacular-live-shows",
+    title: "Cosm: Your Premier Destination for Spectacular Live Shows",
+    category: "Product Review",
+    date: "2026-07-27",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&q=80",
+    excerpt: "I booked Cosm for a Harry Potter screening expecting a big TV. What we got was a dome-sized show that felt closer to a premiere than a movie night.",
+    keywords: ["Cosm", "live shows", "immersive venue", "The Dome", "entertainment"],
+    relatedProducts: []
   }
 ];
 
