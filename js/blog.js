@@ -79,10 +79,6 @@ function renderStatsBar() {
       <div class="stats-bar__number" data-count="${getPopularTags().length}">${getPopularTags().length}</div>
       <div class="stats-bar__label">Topics</div>
     </div>
-    <div class="stats-bar__item">
-      <div class="stats-bar__number" data-count="${counts["Product Review"] || 0}">${counts["Product Review"] || 0}</div>
-      <div class="stats-bar__label">Reviews</div>
-    </div>
   `;
 
   initCounters("#statsBar [data-count]");
