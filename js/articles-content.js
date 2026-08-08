@@ -1513,5 +1513,50 @@ const ARTICLE_CONTENTS = {
 
     <h3>Start with one moderate pair</h3>
     <p>Match your usual flow to their absorbency chart on <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a>, cold rinse before first wear, and test on a day when a backup plan exists. Once the <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">3-Layer Tech</a> proves itself — wicks moisture, locks odour, prevents leaks — expand to swim, sleep, or sport styles and cut disposable spend one wash cycle at a time.</p>
+  `,
+
+  "lskd-functional-fitness-apparel-built-for-hybrid-training": `
+    <p>Tuesday mornings used to mean two outfits. Five kilometres on the road, shower, change into squat-friendly shorts, back to the rack. Not catastrophic — just enough friction that I'd skip the run when sleep was thin and tell myself "strength day only."</p>
+    <p>A gym mate pointed me to <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD</a> after I complained about chafing through burpees in running splits. "Hybrid training gear," she said. "Built for people who refuse to pick one lane." Skeptical — most "multi-sport" labels mean a logo change — but one session in their Hybrid Lined Short and I stopped packing a backup pair.</p>
+
+    <h2>What hybrid training actually demands</h2>
+    <p><a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Hybrid training</a> isn't a marketing buzzword if your week looks like mine: intervals before deadlifts, EMOMs that end in a treadmill finisher, functional fitness classes that blend barbell work with sled pushes. You need fabric that moves on a run, stays put on a squat, and doesn't turn transparent when you hinge.</p>
+    <p>Generic gym shorts fail the run — too heavy, no breathability, waistbands that roll under a belt. Pure run shorts fail the gym — liners that ride up, thin shells that show everything under load. <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Functional fitness apparel</a> has to bridge that gap deliberately, not accidentally.</p>
+
+    <h2>LSKD's hybrid-first kit — shorts and leggings that earn the name</h2>
+    <p><a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD</a> built its reputation on community-driven activewear with a street aesthetic — founded by Jason Carlson from a motocross background, grown into a global brand anchored in Logan, Australia, with retail stores that double as community hubs. The mission on <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">lskd.co</a> is "1% better every day," but the product proof for hybrid athletes lives in two lines I keep reordering.</p>
+    <p>For men, the <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Hybrid Lined 5" Short</a> fuses a lightweight DuraFLX™ shell with an optional compression liner — run-short freedom, training-short structure. Side hem splits for mobility, zip pockets for keys, silicone-lined liner hem so it doesn't ride up mid-WOD. For women, the <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Fusion leggings</a> merge features from four legacy LSKD styles — Rep fabric, no front seam, fold-over waistband, side phone pockets — into one legging rated for HIIT, weight training, running, and all-day wear.</p>
+
+    <figure>
+      <img src="https://www.lskd.co/cdn/shop/files/07-25_Campaign_-_Hybrid_Short_050.jpg?v=1757026460&width=900" alt="LSKD Hybrid Lined Short built for the hybrid athlete">
+      <figcaption>Run-short mobility meets training-short structure — the Hybrid Lined 5" Short is LSKD's answer to same-session cardio and lifts.</figcaption>
+    </figure>
+
+    <h2>Fabric and construction — why it survives both lanes</h2>
+    <p>DuraFLX™ on the Hybrid Short is an 86% nylon / 14% elastane blend built for multi-directional stretch and lightweight durability — bonded seams and hems reduce friction on long runs, compression waistband stays locked under a lifting belt. The liner adds mesh breathability and dual phone pockets without turning the short into a diaper.</p>
+    <p>Fusion's Rep fabric (74% recycled polyester, 26% spandex) delivers four-way stretch with a held-in feel — compressive enough for box jumps, soft enough that my partner wears hers to coffee after class. No front seam means no camel-toe anxiety during heavy cleans; side pockets actually fit a phone without bouncing out on stride three.</p>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Try-before-you-commit</div>
+      <p><a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD</a> offers free shipping and free returns with no minimum spend — useful when you're sizing Hybrid Shorts against your usual run brand or picking Fusion length (full, 7/8, bike short) for the first time.</p>
+    </aside>
+
+    <h2>Street aesthetic, gym function — not either/or</h2>
+    <p>What separates <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD functional fitness apparel</a> from pure performance brands is the streetwear DNA — colour drops, varsity palettes, collab energy — without sacrificing technical fabrics. You can walk from the box to brunch without looking like you forgot to change. Accelerate sets, Cadence tees, Pace running tanks — the catalog covers warm-up, work, and cooldown in one aesthetic language.</p>
+    <p>I browse <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD</a> by activity filter now — Training, Running, All Day Active — instead of guessing from flat lays. Men's and women's lines both get hybrid-specific pieces; don't sleep on the Rep Run Belt or Fast Performance socks if your hybrid days include outdoor mileage.</p>
+
+    <figure>
+      <img src="https://www.lskd.co/cdn/shop/files/S-Model-Fusion-Full-Length-Legging-With-Pockets-Black-15.jpg?v=1755062639&width=900" alt="LSKD Fusion Ultra High-Rise Full Length Legging with side pockets">
+      <figcaption>Fusion leggings — Rep fabric, no front seam, side pockets — built for HIIT, lifting, running, and the walk home after.</figcaption>
+    </figure>
+
+    <h2>Who should shop LSKD first</h2>
+    <p>Hybrid athletes tired of the two-outfit shuffle. Functional fitness regulars — CrossFit-adjacent, F45, Hyrox prep — who need gear that transitions between modalities in one session. Runners who lift, lifters who run, anyone whose "rest day" still includes a 3K and mobility work.</p>
+    <p>Less ideal if you want pure minimalist black at the lowest possible price — <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD</a> sits mid-premium with drops and collabs baked into the brand. Also skip if you never blend cardio and strength — their hybrid pieces shine when you actually hybrid train, not when you need a single-purpose marathon short.</p>
+
+    <blockquote>The best functional fitness apparel disappears mid-session — you're thinking about the rep count, not your waistband — and LSKD's hybrid cuts finally got out of my way on Tuesdays.</blockquote>
+
+    <h3>Build one hybrid session kit</h3>
+    <p>Pick your lane on <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">LSKD</a> — Hybrid Lined Short or Fusion leggings as the anchor, one top from Training or Running, socks that won't blister on the treadmill finisher. Run your usual <a href="https://www.linkbux.com/track/d8d3sQ2fqLweF6oJluM2EEOnXrTMlPMTv_akM_bhOxlbPwzwXljwTPtZtRXyFVi1E3?url=https%3A%2F%2Fwww.lskd.co%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">hybrid training</a> session without a wardrobe change and decide from sweat, not spec sheets.</p>
   `
 };

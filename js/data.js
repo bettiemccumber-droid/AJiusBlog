@@ -406,6 +406,19 @@ const BLOG_POSTS = [
     excerpt: "I assumed period underwear was a thicker pad sewn into fabric. One Classic Bikini later, Modibodi's three-layer gusset changed what I thought was possible — dry, no smell, no backup pad.",
     keywords: ["Modibodi", "period underwear", "3-layer tech", "Modifier Technology", "leak-proof"],
     relatedProducts: []
+  },
+  {
+    id: 32,
+    slug: "lskd-functional-fitness-apparel-built-for-hybrid-training",
+    title: "LSKD: The Functional Fitness Apparel Built for Hybrid Training",
+    category: "Product Review",
+    date: "2026-08-07",
+    readTime: 8,
+    author: "Alex Jius",
+    image: "https://www.lskd.co/cdn/shop/files/04-14_AccelerateSets_Two-Tone_Desktop_b2494c12-4bb4-48d4-be09-8a2b9805ec28.jpg?v=1776831143&width=800",
+    excerpt: "My Tuesday used to mean two outfits — run shorts for the 5K, then changing for squats. LSKD's hybrid-first cuts finally let me train both without the locker-room detour.",
+    keywords: ["LSKD", "functional fitness", "hybrid training", "activewear", "Hybrid Short", "Fusion leggings"],
+    relatedProducts: []
   }
 ];
 
