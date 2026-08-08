@@ -393,6 +393,19 @@ const BLOG_POSTS = [
     excerpt: "My niece wanted a phone case that wasn't on every desk at school. A Wildflower drop solved that — and survived three months in her backpack without cracking.",
     keywords: ["Wildflower Cases", "iPhone cases", "female-owned", "handmade", "phone accessories"],
     relatedProducts: []
+  },
+  {
+    id: 31,
+    slug: "modibodi-3-layer-tech-wicks-moisture-locks-odour-prevents-leaks",
+    title: "Modibodi's 3-Layer Tech: Wicks Moisture, Locks Odour, Prevents Leaks",
+    category: "Product Review",
+    date: "2026-07-30",
+    readTime: 8,
+    author: "Alex Jius",
+    image: "https://www.modibodi.com/cdn/shop/files/CLBIMHBLAW_MB_Classic_Bikini_MH_Black_24_Model_Vlada_10-S.jpg?crop=center&height=800&v=1766982379&width=800",
+    excerpt: "I assumed period underwear was a thicker pad sewn into fabric. One Classic Bikini later, Modibodi's three-layer gusset changed what I thought was possible — dry, no smell, no backup pad.",
+    keywords: ["Modibodi", "period underwear", "3-layer tech", "Modifier Technology", "leak-proof"],
+    relatedProducts: []
   }
 ];
 

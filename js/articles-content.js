@@ -1464,5 +1464,54 @@ const ARTICLE_CONTENTS = {
 
     <h3>Pick a print, check your model</h3>
     <p>Start on <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Wildflower Cases</a> with your exact phone model — Pro Max vs Pro matters. Browse New Drops or Best Sellers, add MagSafe if you charge wireless daily, and join the waitlist if your first choice sold out. <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Handmade iPhone accessories since 2012</a> sounds like heritage marketing until you're the only one in the room with that case.</p>
+  `,
+
+  "modibodi-3-layer-tech-wicks-moisture-locks-odour-prevents-leaks": `
+    <p>My friend swore by <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a> for years. I nodded politely and kept buying tampons plus a backup liner because I didn't believe fabric could do what disposables promised — wick moisture, block odour, stop leaks, all day.</p>
+    <p>Then a travel day went wrong: delayed flight, cramped seat, no bathroom window I trusted. She lent me a Classic Bikini from her carry-on. I wore it expecting bulk and anxiety. Instead I got through six hours dry, no smell, no pad rustle. That night I read the <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a> how-it-works page and finally understood why — <strong>3-Layer Tech</strong> isn't marketing fluff, it's a stacked gusset where each layer has one job.</p>
+
+    <h2>Three layers, one gusset — how it actually works</h2>
+    <p><a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi's 3-Layer Tech</a> lives in the gusset — the reinforced panel in the crotch of each pair — not spread randomly through the fabric. The whole stack is roughly 3mm thick on their core <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">period underwear</a> styles, which is why they feel like normal underwear until you need them not to be.</p>
+    <p>The brand calls the system <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modifier Technology</a> — patented, third-party tested, and run through thousands of lab cycles before a style ships. That sounded like corporate speak until my own "wrong day" test matched what the page claimed.</p>
+
+    <figure>
+      <img src="https://www.modibodi.com/cdn/shop/files/HOWIT-ANI-SML-0001.gif?v=1775086930&width=900" alt="Diagram of Modibodi three-layer period underwear gusset technology">
+      <figcaption>Layer 1 wicks and fights odour, Layer 2 absorbs and locks fluid, Layer 3 breathes while blocking leaks — all inside a slim gusset.</figcaption>
+    </figure>
+
+    <h2>Layer 1 — wicks moisture away from skin</h2>
+    <p>The top layer uses 100% merino wool — patented to <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a>, not generic period-wear copycats. Merino pulls moisture off your skin, stays soft against sensitive areas, and naturally helps manage odour by locking it until wash day. Breathable, quick-drying, biodegradable — the kind of fibre specs that matter when you're wearing the same pair through a long commute.</p>
+    <p>This is the layer that answers "won't I feel wet?" On a moderate-flow day in the Classic Bikini, I didn't — the wicking happened fast enough that I stopped checking mirrors in bathroom stalls.</p>
+
+    <h2>Layer 2 — absorbs fluid and locks odour</h2>
+    <p>The middle layer is quick-drying microfibre built to absorb and hold fluid — period blood, spotting, light bladder leaks, discharge — and keep it locked away from both your skin and the outside world. <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a> rates styles by absorbency — light, moderate, heavy, max — so you're not guessing whether one pair matches your heaviest day or your last-day spotting.</p>
+    <p>My moderate pair holds up to two tampons' worth according to their sizing guide. I treat that as a planning number, not a challenge — but it explained why I could fly without a backup pad in my pocket for the first time in years.</p>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Care tip</div>
+      <p>Cold rinse before first wear activates <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi's</a> leak-proof tech. Cold wash after each wear, line dry inside-out on the gusset — no tumble dryer. Follow that and the layers keep working for up to 100 washes.</p>
+    </aside>
+
+    <h2>Layer 3 — breathable leak-proof barrier</h2>
+    <p>The bottom layer is waterproof and breathable — the leak-proof seal that stops fluid reaching your jeans while still letting air through so the gusset doesn't turn into a sauna. Think of it as the security guard: invisible, unglamorous, doing the job that makes <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">leak-proof period underwear</a> believable on a moving day or a school run.</p>
+    <p>That trio — wick, lock, prevent — is the whole promise in the title. Not one miracle fabric trying to do everything, three specialists stacked in order.</p>
+
+    <figure>
+      <img src="https://www.modibodi.com/cdn/shop/files/HOWIT-SKINNY-ABSORB-DESK-V0001.png?v=1773290840&width=900" alt="Modibodi period underwear absorbency guide showing slim gusset capacity">
+      <figcaption>Slim gusset, serious capacity — absorbency tiers from light spotting to heavy days, all using the same three-layer principle.</figcaption>
+    </figure>
+
+    <h2>Beyond periods — where the same tech shows up</h2>
+    <p><a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a> started with menstruation but the <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modifier Technology</a> gusset now sits in leak-proof swimwear, maternity and postpartum briefs, teen lines, activewear, and bladder-leak styles for men and women. Same three-layer logic, different absorbency ratings and cuts.</p>
+    <p>I browsed <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">modibodi.com</a> expecting a single aisle of black basics. Instead: PUMA collab active briefs, leak-proof swim one-pieces, sleep shorts for teens, nursing tops with absorbent bra zones. The tech travels; the gusset adapts.</p>
+
+    <h2>Who should try it first</h2>
+    <p>Anyone tired of packing backups "just in case." Travelers who've been burned by bathroom queues. Teens who want discreet protection without the crinkle of disposables. Postpartum parents juggling pads and laundry. Light bladder-leak days you don't want to define as "incontinence shopping" in a pharmacy aisle.</p>
+    <p>Less ideal if you prefer changing disposables every few hours regardless — reusable <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">period underwear</a> asks for wash-day rhythm. Also skip if your flow routinely exceeds the style's absorbency tier — pair with their heaviest rating or use as backup, not replacement, until you know your numbers.</p>
+
+    <blockquote>The best leak-proof underwear is the pair you forget you're wearing until you realise you didn't pack a panic pad — Modibodi's three layers earned that for me on a bad travel day.</blockquote>
+
+    <h3>Start with one moderate pair</h3>
+    <p>Match your usual flow to their absorbency chart on <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Modibodi</a>, cold rinse before first wear, and test on a day when a backup plan exists. Once the <a href="https://www.linkbux.com/track/9cd1ZDP2Obz_bC7iv2EJCeTo_aPw9ud5SaV_bcCL4V4yz4f9u_bw8oijSfDhvIHdZeXc_atONeVYrdA_c_c?url=https%3A%2F%2Fwww.modibodi.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">3-Layer Tech</a> proves itself — wicks moisture, locks odour, prevents leaks — expand to swim, sleep, or sport styles and cut disposable spend one wash cycle at a time.</p>
   `
 };
