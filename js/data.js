@@ -389,7 +389,7 @@ const BLOG_POSTS = [
     date: "2026-07-30",
     readTime: 10,
     author: "Alex Jius",
-    image: "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://www.wildflowercases.com/cdn/shop/files/WING2017P-Angel-Baby-iPhone-17-Pro-Case-01_a78f8215-8adf-480b-8216-8aecf3705f14.jpg?v=1774373444&width=800",
     excerpt: "My niece wanted a phone case that wasn't on every desk at school. A Wildflower drop solved that — and survived three months in her backpack without cracking.",
     keywords: ["Wildflower Cases", "iPhone cases", "female-owned", "handmade", "phone accessories"],
     relatedProducts: []

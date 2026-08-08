@@ -1432,7 +1432,7 @@ const ARTICLE_CONTENTS = {
     <p>Since 2012 they've stayed in their lane — fashion-forward phone protection — while expanding from core <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">iPhone accessories</a> into Samsung Galaxy cases, AirPods cases, rhinestone lines, MagSafe options, and pearl wristlets. One brand voice across the catalog — playful, Y2K-adjacent, unapologetically pink when it wants to be.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Decorative smartphone with a colorful protective case">
+      <img src="https://www.wildflowercases.com/cdn/shop/files/FBEL2017PM-Frankies-Bikinis-Bellissima-iPhone-17-Pro-Max-Case-01.jpg?v=1785429026&width=900" alt="Frankies Bikinis Bellissima limited-edition iPhone case by Wildflower Cases">
       <figcaption>Limited-edition prints — the point is owning something your desk neighbor doesn't already have.</figcaption>
     </figure>
 
@@ -1451,7 +1451,7 @@ const ARTICLE_CONTENTS = {
     <p>My niece's Angel Baby case photographed well — that matters at fourteen — and handled daily friction without the print peeling. I ordered a Pink Stripes backup for myself; same build quality, different vibe. Rhinestone options add flash for nights out; MagSafe versions if you live on wireless chargers.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Hand holding an iPhone with a stylish protective case">
+      <img src="https://www.wildflowercases.com/cdn/shop/files/PWST2017P-Pink-Stripes-iPhone-17-Pro-Case-01.jpg?v=1780943968&width=900" alt="Pink Stripes iPhone case from Wildflower Cases">
       <figcaption>Selfie-ready prints with real drop protection — the combo generic mall kiosks rarely nail.</figcaption>
     </figure>
 
