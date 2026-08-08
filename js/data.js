@@ -419,6 +419,19 @@ const BLOG_POSTS = [
     excerpt: "My Tuesday used to mean two outfits — run shorts for the 5K, then changing for squats. LSKD's hybrid-first cuts finally let me train both without the locker-room detour.",
     keywords: ["LSKD", "functional fitness", "hybrid training", "activewear", "Hybrid Short", "Fusion leggings"],
     relatedProducts: []
+  },
+  {
+    id: 33,
+    slug: "feel-good-contacts-high-quality-ethically-sourced-eye-care-products",
+    title: "Feel Good Contacts: High-Quality, Ethically Sourced Eye Care Products",
+    category: "Product Review",
+    date: "2026-08-08",
+    readTime: 8,
+    author: "Alex Jius",
+    image: "https://static2.feelgoodcontacts.net/contact-lenses/img/comfi-soothe-drops-15ml-15-pack-39153.webp",
+    excerpt: "I used to buy lenses online and eye drops from the pharmacy aisle separately. Feel Good Contacts turned out to stock both — with a supplier pledge I could actually read and opticians on staff who answer before you checkout.",
+    keywords: ["Feel Good Contacts", "eye care products", "ethically sourced", "contact lens solution", "Eye Care Hub"],
+    relatedProducts: []
   }
 ];
 
