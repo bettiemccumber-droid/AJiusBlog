@@ -1372,5 +1372,53 @@ const ARTICLE_CONTENTS = {
 
     <h3>Start with one night worth dressing up for</h3>
     <p>Skip the abstract browse. Open <a href="https://admin.rewardoo.com/track/1e4aVMQoiBSYC37e_aOLN0B_bemlXH5pxrrkzWryOrejXuVST79UotPppugJrTjY_agBiKNTBwCiQ_c_c?source=inner&url=https%3A%2F%2Fwww.cosm.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Cosm</a>, filter by your city, and pick the <a href="https://admin.rewardoo.com/track/1e4aVMQoiBSYC37e_aOLN0B_bemlXH5pxrrkzWryOrejXuVST79UotPppugJrTjY_agBiKNTBwCiQ_c_c?source=inner&url=https%3A%2F%2Fwww.cosm.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">live show</a> you'd genuinely regret missing. That's how a venue becomes your <a href="https://admin.rewardoo.com/track/1e4aVMQoiBSYC37e_aOLN0B_bemlXH5pxrrkzWryOrejXuVST79UotPppugJrTjY_agBiKNTBwCiQ_c_c?source=inner&url=https%3A%2F%2Fwww.cosm.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">premier destination</a> — one unforgettable night at a time.</p>
+  `,
+
+  "shop-prescription-non-prescription-lenses-feel-good-contacts": `
+    <p>The text arrived on a Wednesday: "Your contact lens subscription is ready for collection." Translation — leave work early, stand in a high street queue, sign a form, hope they stocked my prescription.</p>
+    <p>A colleague noticed me groaning and sent a link to <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a>. "Same lenses. Reorder in three clicks. I haven't visited a shop in two years." Skeptical, but willing to try anything that gave me my lunch break back.</p>
+    <p>Three months later, I'm converted — not because online shopping is novel, but because <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a> actually covers both sides of what I need: <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">prescription lenses</a> for daily wear and <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">non-prescription lenses</a> for sunglasses and backup pairs — one account, one delivery rhythm.</p>
+
+    <h2>Prescription contact lenses — the reorder test</h2>
+    <p>I wear daily disposables — same brand my optician prescribed for years. The first test on <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">feelgoodcontacts.com</a>: find my exact product, enter my prescription details, compare against what I'd been paying in-store.</p>
+    <p>They stock major brands — Acuvue, Focus Dailies, toric and multifocal options — and claim 98% lens availability. My astigmatism pair was listed with the same parameters my optician file had. Price Match Guarantee meant I wasn't gambling on "cheap" meaning counterfeit; they match legitimate UK pricing on branded lenses.</p>
+    <p>The "reorder in three clicks" line sounded like marketing until it wasn't. Second order took under two minutes. No form. No queue. No awkward "we'll call you when it's in" limbo.</p>
+
+    <figure>
+      <img src="https://images.pexels.com/photos/1209779/pexels-photo-1209779.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Person selecting prescription eyewear and contact lenses online">
+      <figcaption>Prescription details saved once — every reorder after that is clicks, not a lunch-break errand.</figcaption>
+    </figure>
+
+    <h2>Prescription glasses — not just a contacts shop</h2>
+    <p>What surprised me was depth beyond contact lenses. <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a> sells <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">prescription glasses</a> from budget frames to designer lines, plus varifocals and blue-light options for screen-heavy days. Frames from £8, designer 2-for-1 deals — the kind of pricing that made me double-check I was on a legitimate retailer, not a knockoff marketplace.</p>
+    <p>I added a backup pair of office glasses to the same cart as my lens reorder. One delivery, one tracking number. The Eye Care Hub on-site answered frame-shape questions I'd normally ask a shop assistant — face shape guides, lens type explainers, medically reviewed articles. Useful when you're buying solo at midnight.</p>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Delivery threshold</div>
+      <p>Free delivery over £59 on <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a> — combine a lens supply box with solution or a spare frame to hit it. I bundle quarterly now instead of four separate small orders.</p>
+    </aside>
+
+    <h2>Non-prescription sunglasses — the summer add-on</h2>
+    <p>Not everything needs a prescription — but I still want UV protection and polarised options for driving. The <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">non-prescription lenses</a> section covers plain sunglasses, polarised pairs, and prescription sunglasses if your distance vision needs correction outdoors too.</p>
+    <p>Savings up to 60% on sunglasses versus high street stuck out — I cross-checked one Ray-Ban-adjacent style against a mall optician and the gap was real, not a fake "was/now" markup game. For prescription sunglasses, you enter the same Rx as contacts; the site handles lens tint and coating options without a separate visit.</p>
+
+    <figure>
+      <img src="https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Stylish sunglasses with UV protection for outdoor wear">
+      <figcaption>Polarised and prescription sunglasses in the same shop as your daily contacts — one less specialist appointment.</figcaption>
+    </figure>
+
+    <h2>Why I trust it with my eyes</h2>
+    <p>Optics isn't sneakers — wrong lenses aren't an inconvenience, they're a headache literally. <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a> is rated Excellent on Trustpilot with 69,000+ reviews — not a guarantee, but a baseline signal that deliveries match orders and customer service responds when something's off.</p>
+    <p>They also stock branded equivalents to high-street own-label lenses — the same manufacturers behind Specsavers EasyVision and similar lines — which helped me verify I wasn't switching to a mystery brand, just a different till.</p>
+    <p>Eye drops, solutions, travel-size care kits — the boring essentials sit beside fashion frames. I added a preservative-free drop bottle to a lens reorder and stopped making separate pharmacy runs.</p>
+
+    <h2>Who it's actually for</h2>
+    <p>Anyone with a stable prescription who's tired of reorder friction. Daily disposable wearers who know their brand and parameters. Glasses wearers who want a second pair without a fitting-room sales pitch. Parents reordering for teenagers who lose lenses on schedule.</p>
+    <p>It's less ideal if your prescription changes every visit — you still need your optician for eye health checks. But for the routine "same lenses, same Rx, ship to my door" cycle, <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">shop prescription and non-prescription lenses at Feel Good Contacts</a> and move on with your week.</p>
+
+    <blockquote>The best eyewear retailer is the one that turns a chore into three clicks — without making you nervous about what's in the box.</blockquote>
+
+    <h3>Start with your current prescription</h3>
+    <p>Grab your last box or optician receipt — brand, base curve, diameter, power. Enter it on <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a>, compare one reorder against your usual price, and decide from evidence. First-time shoppers get 10% off via email signup — worth it if you're testing the waters before committing to a quarterly stock-up.</p>
   `
 };

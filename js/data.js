@@ -367,6 +367,19 @@ const BLOG_POSTS = [
     excerpt: "I booked Cosm for a Harry Potter screening expecting a big TV. What we got was a dome-sized show that felt closer to a premiere than a movie night.",
     keywords: ["Cosm", "live shows", "immersive venue", "The Dome", "entertainment"],
     relatedProducts: []
+  },
+  {
+    id: 29,
+    slug: "shop-prescription-non-prescription-lenses-feel-good-contacts",
+    title: "Shop Prescription & Non-Prescription Lenses at Feel Good Contacts",
+    category: "Product Review",
+    date: "2026-07-31",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://images.pexels.com/photos/976877/pexels-photo-976877.jpeg?auto=compress&cs=tinysrgb&w=800",
+    excerpt: "My optician's reorder reminder used to mean a lunch-break queue. Switching to Feel Good Contacts cut it to three clicks — and my monthly lens bill finally matched what friends had been paying online all along.",
+    keywords: ["Feel Good Contacts", "contact lenses", "prescription glasses", "sunglasses", "eyewear"],
+    relatedProducts: []
   }
 ];
 
