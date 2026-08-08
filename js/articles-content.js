@@ -1385,7 +1385,7 @@ const ARTICLE_CONTENTS = {
     <p>The "reorder in three clicks" line sounded like marketing until it wasn't. Second order took under two minutes. No form. No queue. No awkward "we'll call you when it's in" limbo.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/1209779/pexels-photo-1209779.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Person selecting prescription eyewear and contact lenses online">
+      <img src="https://static2.feelgoodcontacts.net/contact-lenses/img/1-day-acuvue-moist-for-astigmatism-30-pack-36962.webp" alt="1 Day Acuvue Moist for Astigmatism contact lenses listed on Feel Good Contacts">
       <figcaption>Prescription details saved once — every reorder after that is clicks, not a lunch-break errand.</figcaption>
     </figure>
 
@@ -1403,7 +1403,7 @@ const ARTICLE_CONTENTS = {
     <p>Savings up to 60% on sunglasses versus high street stuck out — I cross-checked one Ray-Ban-adjacent style against a mall optician and the gap was real, not a fake "was/now" markup game. For prescription sunglasses, you enter the same Rx as contacts; the site handles lens tint and coating options without a separate visit.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Stylish sunglasses with UV protection for outdoor wear">
+      <img src="https://static2.feelgoodcontacts.net/eyeframes/images/rayban-erika-rx7046-5365-rubber-havana-1-pack-57551.webp" alt="Ray-Ban Erika sunglasses available on Feel Good Contacts">
       <figcaption>Polarised and prescription sunglasses in the same shop as your daily contacts — one less specialist appointment.</figcaption>
     </figure>
 
@@ -1420,5 +1420,49 @@ const ARTICLE_CONTENTS = {
 
     <h3>Start with your current prescription</h3>
     <p>Grab your last box or optician receipt — brand, base curve, diameter, power. Enter it on <a href="https://www.linkbux.com/track/df0doUyMNodKun28m5BSIFYxNxCyLGuWqrj7KcmHCTPq55kWI9HmRJA8lBEGv1fMQaC88UtKZhnXjoHk?url=https%3A%2F%2Fwww.feelgoodcontacts.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Feel Good Contacts</a>, compare one reorder against your usual price, and decide from evidence. First-time shoppers get 10% off via email signup — worth it if you're testing the waters before committing to a quarterly stock-up.</p>
+  `,
+
+  "wildflower-cases-female-owned-handmade-iphone-accessories": `
+    <p>My niece sent a screenshot at 10pm: "Everyone at school has the same clear case. Help." Fair request. She's fourteen — phone identity matters, durability matters more, and her budget matters most of all.</p>
+    <p>I searched "cute iPhone case that isn't Amazon generic" and landed on <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Wildflower Cases</a>. Limited drops, loud prints, a backstory that wasn't a factory in a hurry. She picked the Angel Baby pink. I picked a backup because I've seen how lockers treat phones.</p>
+    <p>Three months later — no cracks, no yellowing, still the only case in her friend group with that exact print. That's when I read the about page properly: <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">female-owned</a>, family-run, making <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">handmade iPhone accessories</a> since 2012. The aesthetic finally had context.</p>
+
+    <h2>A family brand, not a phone-case warehouse</h2>
+    <p><a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Wildflower Cases</a> was founded by Michelle Carlson with her daughters Devon and Sydney — still operated by the three of them. In a category flooded with drop-shipped lookalikes, that lineage shows up in how they release product: small batches, collabs with real designers, waitlists when a print sells out instead of quietly restocking a knockoff.</p>
+    <p>Since 2012 they've stayed in their lane — fashion-forward phone protection — while expanding from core <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">iPhone accessories</a> into Samsung Galaxy cases, AirPods cases, rhinestone lines, MagSafe options, and pearl wristlets. One brand voice across the catalog — playful, Y2K-adjacent, unapologetically pink when it wants to be.</p>
+
+    <figure>
+      <img src="https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Decorative smartphone with a colorful protective case">
+      <figcaption>Limited-edition prints — the point is owning something your desk neighbor doesn't already have.</figcaption>
+    </figure>
+
+    <h2>Limited edition means actually limited</h2>
+    <p>Scroll <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">wildflowercases.com</a> and you'll see the pattern — Frankies Bikinis collabs, Ashley Williams artist series, Slushy Noobz drops, rhinestone Union Jack, vintage florals. New releases rotate; old favorites hit waitlists. Cases start around $35, rhinestone and pearl styles step up to $39–$45.</p>
+    <p>That scarcity model isn't for everyone. If you want the same black shell forever, buy bulk elsewhere. If you treat your phone like an outfit accessory — swap cases seasonally, match moods, gift something with personality — <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Wildflower Cases</a> is built for you.</p>
+    <p>Model coverage runs deep — iPhone 13 through 17 Pro Max, MagSafe variants flagged separately, Galaxy S25 series alongside. Pick your exact model before you fall in love with a print; inventory per size is transparent ("2 left" warnings are honest).</p>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Shipping math</div>
+      <p>Free US shipping on orders over $50 at <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Wildflower Cases</a> — pair a case with an AirPods sleeve or wristlet to clear the threshold instead of paying $4.95 twice on separate impulse buys.</p>
+    </aside>
+
+    <h2>Cute and protective — not mutually exclusive</h2>
+    <p>The brand's own line is "cute &amp; protective," which sounds like marketing until a phone survives a semester in a backpack. Wildflower cases use raised edges and snug fits — not tank-case bulky, but enough to survive table drops and the inside of a tote full of keys.</p>
+    <p>My niece's Angel Baby case photographed well — that matters at fourteen — and handled daily friction without the print peeling. I ordered a Pink Stripes backup for myself; same build quality, different vibe. Rhinestone options add flash for nights out; MagSafe versions if you live on wireless chargers.</p>
+
+    <figure>
+      <img src="https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Hand holding an iPhone with a stylish protective case">
+      <figcaption>Selfie-ready prints with real drop protection — the combo generic mall kiosks rarely nail.</figcaption>
+    </figure>
+
+    <h2>Who Wildflower is for</h2>
+    <p>Teens who want identity without custom-case lead times. Adults tired of minimalist gray shells. Gift-givers buying something that feels chosen — birthday, graduation, "you survived exams." Collectors who follow collab drops the way sneakerheads follow SNKRS.</p>
+    <p>Less ideal if you need corporate-neutral — no florals in the boardroom crowd. Also skip if you buy one case per phone lifetime; this brand rewards repeat visits when new prints land.</p>
+    <p>Supporting a <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">female-owned</a> label that's been independent since 2012 isn't the main reason to buy — the main reason is your phone looks like yours. The ownership story is a bonus that makes the purchase feel less disposable.</p>
+
+    <blockquote>The best phone case is the one you notice on your desk and still trust when you drop it — Wildflower manages both more often than I expected.</blockquote>
+
+    <h3>Pick a print, check your model</h3>
+    <p>Start on <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Wildflower Cases</a> with your exact phone model — Pro Max vs Pro matters. Browse New Drops or Best Sellers, add MagSafe if you charge wireless daily, and join the waitlist if your first choice sold out. <a href="https://www.linkbux.com/track/6256RM4np9aIZ_adB_bzYeF1u4AQBkprm8NcwSJY0rIvTKk8YnMmmW2A54E_ay2N48q7BInXO2mfk5sOjPhdd8_c?url=https%3A%2F%2Fwww.wildflowercases.com%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Handmade iPhone accessories since 2012</a> sounds like heritage marketing until you're the only one in the room with that case.</p>
   `
 };

@@ -376,9 +376,22 @@ const BLOG_POSTS = [
     date: "2026-07-31",
     readTime: 10,
     author: "Alex Jius",
-    image: "https://images.pexels.com/photos/976877/pexels-photo-976877.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://static2.feelgoodcontacts.net/contact-lenses/img/1-day-acuvue-moist-30-pack-36959.webp",
     excerpt: "My optician's reorder reminder used to mean a lunch-break queue. Switching to Feel Good Contacts cut it to three clicks — and my monthly lens bill finally matched what friends had been paying online all along.",
     keywords: ["Feel Good Contacts", "contact lenses", "prescription glasses", "sunglasses", "eyewear"],
+    relatedProducts: []
+  },
+  {
+    id: 30,
+    slug: "wildflower-cases-female-owned-handmade-iphone-accessories",
+    title: "Wildflower Cases: Female-Owned, Handmade iPhone Accessories Since 2012",
+    category: "Product Review",
+    date: "2026-07-30",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+    excerpt: "My niece wanted a phone case that wasn't on every desk at school. A Wildflower drop solved that — and survived three months in her backpack without cracking.",
+    keywords: ["Wildflower Cases", "iPhone cases", "female-owned", "handmade", "phone accessories"],
     relatedProducts: []
   }
 ];
