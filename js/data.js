@@ -545,7 +545,7 @@ const BLOG_POSTS = [
     date: "2026-08-16",
     readTime: 8,
     author: "Alex Jius",
-    image: "https://s7d2.scene7.com/is/image/aeo/0560_4567_100_ob?scl=1&wid=800",
+    image: "https://s7d2.scene7.com/is/image/aeo/0341_8032_639_f?scl=1&wid=800",
     excerpt: "Weekend at my sister's — her teenager wanted Aerie leggings, my brother-in-law needed AE hoodies, my mom wanted soft loungewear that isn't frumpy. One site, three generations, zero mall marathon.",
     keywords: ["American Eagle", "Aerie", "casual outfits", "intimates", "activewear", "AE.com"],
     relatedProducts: []
@@ -558,7 +558,7 @@ const BLOG_POSTS = [
     date: "2026-08-17",
     readTime: 8,
     author: "Alex Jius",
-    image: "https://images.pexels.com/photos/6238099/pexels-photo-6238099.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://images.pexels.com/photos/4488252/pexels-photo-4488252.jpeg?auto=compress&cs=tinysrgb&w=800",
     excerpt: "I stopped buying wall art from big-box prints when I learned the \"artist\" was a stock photo farm. Redirecting even a few purchases to Etsy makers changed how I think about supporting creative work.",
     keywords: ["Etsy", "Etsy Affiliate", "independent artists", "makers", "handmade", "artisan"],
     relatedProducts: []
@@ -571,7 +571,7 @@ const BLOG_POSTS = [
     date: "2026-08-18",
     readTime: 8,
     author: "Alex Jius",
-    image: "https://media.victoriassecret.pl/catalog/product/3/Z/3ZcDr_112908072HMN_OM_B.jpg?store=vs_pl&image-type=image",
+    image: "https://media.victoriassecret.pl/catalog/product/d/5/d5lby_112908072HMN_OF_F.jpg?store=vs_pl&image-type=image",
     excerpt: "Most cheeky panties look identical from the front — the VS Shine Script pair is built for the back view. Crystal logo script and rhinestone straps on a daring cut changed my occasion-drawer logic.",
     keywords: ["Victoria's Secret", "Shine Script", "cheeky panties", "Very Sexy", "victoriassecret.pl"],
     relatedProducts: []

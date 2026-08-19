@@ -1956,7 +1956,7 @@ const ARTICLE_CONTENTS = {
     <p>I grabbed travel jeans and a neutral tee for myself while his hoodies landed in the cart. One brand lane, two generations of weekend wear — that's the efficiency multi-brand malls used to promise before everyone fragmented across apps.</p>
 
     <figure>
-      <img src="https://s7d2.scene7.com/is/image/aeo/0020_4567_100_f?scl=1&wid=900" alt="American Eagle men's casual hoodie and fleece apparel">
+      <img src="https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=900" alt="American Eagle men's casual hoodie and fleece apparel">
       <figcaption>Men's hoodies and fleece — the backbone of casual American Eagle outfits for travel, school runs, and lazy Sundays.</figcaption>
     </figure>
 
@@ -1974,7 +1974,7 @@ const ARTICLE_CONTENTS = {
     <p>When <a href="https://admin.rewardoo.com/track/e517wyIlPCn8FrVbn3jcDdQhb5s6JRA5F8fGvZtYQfL_aHjM1x3A1AG4M6RgtotN3QmuNEwuiHcYymtIHJTl2GjZGdLI3NPWu?source=inner&url=https%3A%2F%2Fwww.ae.com%2Fus%2Fen" class="link--affiliate" target="_blank" rel="noopener sponsored">casual outfits</a>, intimates, and gym basics share one ecosystem, returns and exchanges stop being a family logistics nightmare — one order number, one tracking link, one customer service path.</p>
 
     <figure>
-      <img src="https://s7d2.scene7.com/is/image/aeo/0892_4567_100_ob?scl=1&wid=900" alt="Aerie OFFLINE activewear leggings and sports styles on model">
+      <img src="https://images.pexels.com/photos/6551179/pexels-photo-6551179.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Aerie OFFLINE activewear leggings and sports styles on model">
       <figcaption>Aerie activewear — leggings and lounge-athletic pieces that work for teens, parents, and anyone who wants comfort without a specialty boutique price.</figcaption>
     </figure>
 
@@ -2040,8 +2040,8 @@ const ARTICLE_CONTENTS = {
     <p>The front is smooth microfiber with a subtle sheen — low rise, high-cut legs, cotton gusset — the practical half you'd expect from a brand that knows everyday wear. The back is where the design brief lives. That's rare in underwear marketing, which usually photographs the front because retail layouts demand it.</p>
 
     <figure>
-      <img src="https://media.victoriassecret.pl/catalog/product/o/v/ovH3X_112908072HMN_OM_F.jpg?store=vs_pl&image-type=image" alt="Victoria's Secret Shine Script Cheeky panty in Angel Pink front view">
-      <figcaption>Shine Script Cheeky in Angel Pink — smooth microfiber front; the signature crystal logo script sits on the back.</figcaption>
+      <img src="https://media.victoriassecret.pl/catalog/product/o/v/ovH3X_112908072HMN_OM_F.jpg?store=vs_pl&image-type=image" alt="Victoria's Secret Shine Script Cheeky panty in Angel Pink — front view on model">
+      <figcaption>Shine Script Cheeky in Angel Pink — smooth microfiber front; crystal logo script and rhinestone straps sit on the back.</figcaption>
     </figure>
 
     <h2>Fit, fabric, and the occasion-drawer test</h2>
@@ -2058,8 +2058,8 @@ const ARTICLE_CONTENTS = {
     <p>All three share the same <a href="https://www.linkbux.com/track/c089ulDDSkM6Bj1X76U_aDDd_bcCJm_bBBOJagQq_awP1F73e_aSmUUIBx6R3qwGI98JpxgJ8iAorScNb0VIuGQ_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">unique back design</a> — daring cut, logo script, rhinestone straps — which is why I treat them as one product line with color moods, not three unrelated purchases. Browse the Very Sexy section on <a href="https://www.linkbux.com/track/c089ulDDSkM6Bj1X76U_aDDd_bcCJm_bBBOJagQq_awP1F73e_aSmUUIBx6R3qwGI98JpxgJ8iAorScNb0VIuGQ_c_c?url=https%3A%2F%2Fvictoriassecret.pl%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Victoria's Secret Poland</a> and filter by back-detail styles if you want adjacent cuts without duplicating the same silhouette.</p>
 
     <figure>
-      <img src="https://media.victoriassecret.pl/catalog/product/2/a/2aLWp_1129080754A2_OM_B.jpg?store=vs_pl&image-type=image" alt="Victoria's Secret Shine Script Cheeky panty in Black showing crystal logo back design">
-      <figcaption>Black Shine Script Cheeky — the same daring back cut and crystal VS script, sharper contrast for evening outfits.</figcaption>
+      <img src="https://media.victoriassecret.pl/catalog/product/2/a/2aLWp_1129080754A2_OM_F.jpg?store=vs_pl&image-type=image" alt="Victoria's Secret Shine Script Cheeky panty in Black — front product view">
+      <figcaption>Black Shine Script Cheeky — same convertible shine collection in a sharper neutral for evening outfits.</figcaption>
     </figure>
 
     <h2>Who should buy these — and who should skip</h2>
