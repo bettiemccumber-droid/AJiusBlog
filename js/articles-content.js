@@ -1117,8 +1117,8 @@ const ARTICLE_CONTENTS = {
     <p>I later read that <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim lenses</a> are color-enhancing polarized filters, not just tinted plastic. That matched what I saw — coral tones in tide pools I'd walked past ten minutes earlier without noticing.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80" alt="Vivid turquoise ocean water seen through quality polarized lenses">
-      <figcaption>Coastal color is the test — glare off water exposes weak lenses faster than any spec sheet.</figcaption>
+      <img src="https://images.mauijim.com/content-images/homepage/shop/crcf3-shop-women.png?imwidth=1024" alt="Woman wearing Maui Jim sport sunglasses with blue mirrored lenses on the water">
+      <figcaption>PolarizedPlus2 on the water — mirrored lenses cut glare and bring back color on bright, high-glare days.</figcaption>
     </figure>
 
     <aside class="article-soft-ad">
@@ -1135,8 +1135,8 @@ const ARTICLE_CONTENTS = {
     <p>For sport and fishing lines, rubberized nose pads and larger coverage matter more than logo placement. For city errands, lighter frames win. The site makes that distinction clearer than most eyewear brands that dump everything into one "sunglasses" bucket.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Stylish polarized sunglasses ready for a sunny outdoor day">
-      <figcaption>Daily wear or weekend hike — frame fit matters as much as lens tech when you're wearing them for hours.</figcaption>
+      <img src="https://images.mauijim.com/content-images/homepage/shop/cycf3-shop-men.png?imwidth=1024" alt="Man wearing Maui Jim sunglasses holding a surfboard at the beach">
+      <figcaption>Men's frames built for surf and sun — same PolarizedPlus2 clarity, fit tuned for movement and long hours outside.</figcaption>
     </figure>
 
     <blockquote>Good lenses don't make the world prettier. They show you what was already there — without the glare pretending to be fog.</blockquote>
