@@ -970,8 +970,8 @@ const ARTICLE_CONTENTS = {
     <p>He wasn't selling anything. He mentioned <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele</a> the way mechanics mention Toyota — not excitement, respect. "You'll know the brand when you see the price. You'll know the price when you stop calling me on Sundays."</p>
 
     <figure>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Miele_Waschmaschine_01_%28fcm%29.jpg/960px-Miele_Waschmaschine_01_%28fcm%29.jpg" alt="Miele front-loading washing machine built for long-term durability">
-      <figcaption>A real Miele machine — the kind engineered to survive years of daily use, not marketing-cycle replacements.</figcaption>
+      <img src="https://media.miele.com/images/2000021/200002115/20000211597.png?impolicy=gallery&imwidth=900&x=0&y=1&w=5120&h=3839" alt="Miele TwinDos washing machine and matching laundry appliances in a modern utility room">
+      <figcaption>Miele laundry built for daily cycles — TwinDos dosing and matched care products, not guesswork from the supermarket aisle.</figcaption>
     </figure>
 
     <h2>What "lifetime performance" means in a kitchen</h2>
@@ -988,8 +988,8 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=900&q=80" alt="Built-in Miele dishwasher integrated into a modern kitchen">
-      <figcaption>The dishwasher category where Miele justifies the premium — whisper-quiet, built to run daily for years.</figcaption>
+      <img src="https://media.miele.com/images/2000022/200002235/20000223536.png?impolicy=gallery&imwidth=900" alt="Man using a Miele Triflex cordless vacuum in a modern home">
+      <figcaption>Triflex and full-range durability — suction that still works years in, not month-six disappointment.</figcaption>
     </figure>
 
     <h2>What the neighbor's vacuum proved</h2>
@@ -1014,8 +1014,8 @@ const ARTICLE_CONTENTS = {
     <p><strong>June:</strong> Move in. Six months later, the kitchen is the only part of the renovation we still feel completely right about — almost entirely because of <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK</a> appliances.</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1565538810643-b5bdb714032a?auto=format&fit=crop&w=900&q=80" alt="Miele UK built-in oven, induction cooktop and integrated dishwasher in a renovated kitchen">
-      <figcaption>Our Miele UK kitchen setup — built-in oven, induction cooktop, integrated dishwasher, the one renovation decision we still feel good about.</figcaption>
+      <img src="https://media.miele.com/images/2000021/200002148/20000214825.png?impolicy=gallery&imwidth=900&x=0&y=0&w=1333&h=1001" alt="Miele Experience Centre kitchen showroom with city views">
+      <figcaption>Miele UK showroom — hear the dishwasher, feel door weight, leave knowing what quiet actually means.</figcaption>
     </figure>
 
     <h2>What we chose and in what order</h2>
@@ -1033,8 +1033,8 @@ const ARTICLE_CONTENTS = {
     </aside>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80" alt="Everyday cooking in a Miele UK kitchen with built-in appliances">
-      <figcaption>The built-in oven that heats evenly without rotating trays — luxury measured at 7am on a Wednesday, not just on guest night.</figcaption>
+      <img src="https://media.miele.com/images/2000015/200001592/20000159232.png?impolicy=gallery&imwidth=900&x=0&y=1735&w=4512&h=3385" alt="Built-in Miele oven, coffee machine and steam oven in a premium kitchen">
+      <figcaption>Built-in oven, coffee, steam — the stack we live with daily after choosing heat and cleanup before cosmetic compromises.</figcaption>
     </figure>
 
     <h2>July — six months in, what we notice daily</h2>
@@ -3260,5 +3260,49 @@ const ARTICLE_CONTENTS = {
 
     <h3>Measure, order once, rotate</h3>
     <p>Pull the school list, open the <a href="https://admin.rewardoo.com/track/65c2clXrRXHNUlPtqECOsv4xLCWh8KaQyiwHnbb9aMNlocJ2XdWBryiENFEBESIhMy0LWXQOLc_bFdlxMoKDmGGq1HHn_arK5FMHHi?url=https%3A%2F%2Fwww.trutex.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Trutex</a> size guide, order on <a href="https://admin.rewardoo.com/track/65c2clXrRXHNUlPtqECOsv4xLCWh8KaQyiwHnbb9aMNlocJ2XdWBryiENFEBESIhMy0LWXQOLc_bFdlxMoKDmGGq1HHn_arK5FMHHi?url=https%3A%2F%2Fwww.trutex.com" class="link--affiliate" target="_blank" rel="noopener sponsored">trutex.com</a>. If October arrives without a collar crisis, you'll know why made-to-last beat made-to-discount.</p>
+  `,
+
+  "miele-uk-consultations-twindos-care-full-home-plan": `
+    <p>September was appliance month — washer dying, vacuum losing suction, partner insisting we "just grab whatever's on sale." I'd almost clicked a random detergent bundle when a friend said the expensive mistake isn't Miele's price tag — it's pairing premium machines with supermarket care products and zero planning.</p>
+    <p>She booked a <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2Fc%2Fmiele-sales-consultations-events-9046.htm" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK sales consultation</a> instead. One appointment mapped laundry, floor care, and detergents before anything shipped — I copied her playbook on <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">miele.co.uk</a> and stopped guessing.</p>
+
+    <h2>Consultations and experience centres — specs you can't get from a tab</h2>
+    <p><a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2Fc%2Fmiele-sales-consultations-events-9046.htm" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele sales consultations and events</a> exist because built-in kitchen and laundry decisions are tactile — door weight, dishwasher hush, Triflex balance in your hand. PDFs don't tell you whether a washer fits your utility alcove or whether TwinDos cartridges match how you actually wash.</p>
+    <p>I walked an experience-centre kitchen — marble island, induction flush-mount, the quiet you only believe in person — then translated that to our smaller layout with the consultant's notes. Showroom aspiration, real-room constraints. That's the visit's value, not free coffee.</p>
+
+    <h2>TwinDos and laundry — machine plus dosing, not machine alone</h2>
+    <p><a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele</a> TwinDos auto-doses detergent for load size and soil — the feature I would've ignored until the consultant explained how much damage overdosing does to fabrics and the machine. Pair that with matched <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">UltraPhase</a> and fabric-specific lines on site, not generic supermarket bottles.</p>
+    <p>Washer and dryer side-by-side in the consultation plan — same brand, same care logic, one delivery story. September timing meant install before school-uniform season peaked; boring logistics, huge sanity payoff.</p>
+
+    <figure>
+      <img src="https://media.miele.com/images/2000021/200002115/20000211597.png?impolicy=gallery&imwidth=900&x=0&y=1&w=5120&h=3839" alt="Woman loading a Miele TwinDos washing machine with UltraPhase detergents nearby">
+      <figcaption>TwinDos laundry setup — auto dosing plus Miele detergents matched to the machine you actually bought.</figcaption>
+    </figure>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Before you checkout</div>
+      <p>Book a <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2Fc%2Fmiele-sales-consultations-events-9046.htm" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele consultation</a>, confirm TwinDos and care SKUs on <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK</a>, then order appliances and detergents together — half the wrong-detergent regret.</p>
+    </aside>
+
+    <h2>Care products and Triflex — the rest of the home plan</h2>
+    <p>PowerDisk for dishwashers, UltraColor and UltraWhite for laundry, SteelCare and HydroClean for appliance upkeep — <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele</a> care range looks fussy until you've replaced a seal or rerun a cycle because of cheap tabs. The consultation basket included care SKUs sized to our machines, not a marketing multipack.</p>
+    <p>For floors, we added a <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">Triflex</a> cordless stick — Reach configuration for stairs, pet kibble disasters, the post-renovation dust that never ends. One brand across kitchen, laundry, and floor care simplifies filters, accessories, and "which manual do I open?" moments.</p>
+
+    <figure>
+      <img src="https://media.miele.com/images/2000020/200002096/20000209666.png?impolicy=gallery&imwidth=900&x=773&y=909&w=4021&h=3015" alt="Miele UltraPhase detergents, PowerDisk and appliance care products arranged on a kitchen counter">
+      <figcaption>Miele care range — PowerDisk, UltraPhase, SteelCare — spec'd to your machines instead of random supermarket substitutes.</figcaption>
+    </figure>
+
+    <h2>Which? Brand of the Year — why it mattered to us</h2>
+    <p>Miele's recent Which? home-appliance recognition isn't why we bought — but it shortened the "are we being snobs?" argument with family. Consumer-first awards align with the long-ownership math: buy once, care correctly, stop treating appliances as disposable. Our consultant referenced the same story when we winced at checkout.</p>
+    <p>If you're comparing premium brands, awards plus in-person consultation beat spec-sheet tennis. You still pay more upfront. You just pay on purpose.</p>
+
+    <h2>Who should book a consultation first</h2>
+    <p>Book if you're replacing multiple categories at once — kitchen refresh plus laundry, or washer plus vacuum plus detergents. Book if TwinDos and built-in lines confuse you online. Skip if you're buying one small countertop appliance and already know the SKU — consultation shines on whole-room plans, not single kettle replacements.</p>
+
+    <blockquote>The expensive mistake isn't Miele's sticker price — it's the premium machine fed with the wrong care products and no one to ask before install day.</blockquote>
+
+    <h3>Consult first, then one cart</h3>
+    <p>Schedule <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2Fc%2Fmiele-sales-consultations-events-9046.htm" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK sales consultations</a>, confirm TwinDos, care, and floor care on <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">miele.co.uk</a>, order once. September chaos gets quieter when appliances and detergents arrive speaking the same language.</p>
   `
 };

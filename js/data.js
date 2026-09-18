@@ -259,7 +259,7 @@ const BLOG_POSTS = [
     date: "2026-07-01",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Miele_Waschmaschine_01_%28fcm%29.jpg/960px-Miele_Waschmaschine_01_%28fcm%29.jpg",
+    image: "https://media.miele.com/dam/f1fc1e67-ab09-474c-b40e-b4a901160c0a/20000458864_16x9.png?imwidth=1024",
     excerpt: "Our dishwasher died mid-dinner party. The repair guy's Sunday advice — and the cost math — sent me down the Miele rabbit hole.",
     keywords: ["Miele", "appliances", "kitchen", "durability", "premium"],
     relatedProducts: []
@@ -272,7 +272,7 @@ const BLOG_POSTS = [
     date: "2026-07-10",
     readTime: 12,
     author: "Alex Jius",
-    image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&q=80",
+    image: "https://media.miele.com/dam/357d2571-3d39-4a3c-8872-b45200c56de4/20000451156_16x9.png?imwidth=1024",
     excerpt: "March countertops, May showroom, June move-in — six months later, our Miele UK kitchen is the only renovation decision we still feel completely right about.",
     keywords: ["Miele UK", "luxury kitchen", "ovens", "dishwashers", "home"],
     relatedProducts: []
@@ -938,6 +938,19 @@ const BLOG_POSTS = [
     image: "https://images.pexels.com/photos/14578474/pexels-photo-14578474.jpeg?auto=compress&cs=tinysrgb&w=800",
     excerpt: "September meant replacing shirts that pilled after six washes — again. Trutex's UK schoolwear survived the term, sized correctly the first time, and didn't need a mid-year supermarket panic buy.",
     keywords: ["Trutex", "school uniform", "UK schoolwear", "made to last", "sustainable uniform", "trutex.com"],
+    relatedProducts: []
+  },
+  {
+    id: 73,
+    slug: "miele-uk-consultations-twindos-care-full-home-plan",
+    title: "Miele UK: Sales Consultations, TwinDos Laundry & Care Products in One Plan",
+    category: "Product Review",
+    date: "2026-09-02",
+    readTime: 8,
+    author: "Alex Jius",
+    image: "https://media.miele.com/images/2000021/200002148/20000214825.png?impolicy=gallery&imwidth=900&x=0&y=0&w=1333&h=1001",
+    excerpt: "I almost bought the wrong washer detergent combo online. A Miele UK consultation fixed TwinDos, Triflex, and UltraPhase in one visit — before the appliances landed.",
+    keywords: ["Miele UK", "TwinDos", "consultation", "UltraPhase", "Triflex", "miele.co.uk"],
     relatedProducts: []
   }
 ];
