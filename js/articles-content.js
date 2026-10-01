@@ -3304,5 +3304,53 @@ const ARTICLE_CONTENTS = {
 
     <h3>Consult first, then one cart</h3>
     <p>Schedule <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2Fc%2Fmiele-sales-consultations-events-9046.htm" class="link--affiliate" target="_blank" rel="noopener sponsored">Miele UK sales consultations</a>, confirm TwinDos, care, and floor care on <a href="https://www.linkbux.com/track/6446cjKI640HtSxecbDA1f5MVtGV3NQGEnSo6yrAoAFwgS5UjJSKWGP01Irr8yqBBIhD?url=https%3A%2F%2Fwww.miele.co.uk%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">miele.co.uk</a>, order once. September chaos gets quieter when appliances and detergents arrive speaking the same language.</p>
+  `,
+
+  "cabelas-canada-fall-hunt-fish-camp-gear-checklist": `
+    <p>My brother's moose tag started September 15. My family's "one more camping trip before homework owns us" started September 20. Two trips, overlapping lists — boots, layers, tackle, tent stakes, freeze-dried guilt — and my old habit of splitting orders across a big-box store plus whatever marketplace had free shipping.</p>
+    <p>I consolidated everything on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's Canada</a> at <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">cabelas.ca</a> — hunting, fishing, and camping under one roof built for Canadian seasons, not generic "outdoors" aisles.</p>
+
+    <h2>Why Cabela's Canada isn't just the US catalog with maple syrup</h2>
+    <p><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's Canada</a> tailors assortment to how Canadians actually hunt, fish, and camp — extreme cold-weather clothing and footwear, trapping products, boating and wildlife-watching gear alongside rifles, reels, and tents. The Canadian team negotiates vendor relationships sized for this market; you're not always fighting US-only SKUs that won't ship north.</p>
+    <p>I stopped treating outdoor shopping as three separate hobbies. Fall is when overlap hurts — same rain shell for camp and tree stand, same insulated boots philosophy, different lists unless one retailer understands both.</p>
+
+    <h2>Hunting and shooting — September is prep month, not panic week</h2>
+    <p>Tag draw excitement fades fast when waders don't fit or ammo is the wrong lot for your rifle. On <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">cabelas.ca</a>, hunting covers clothing systems, optics, packs, and shooting accessories with the depth a specialty retailer is supposed to have — not a seasonal endcap that disappears after opening weekend.</p>
+    <p>My brother's list: merino base layers, waterproof outer shell, game bags, headlamp with spare batteries. Mine added nothing except a shared cart and free in-store pickup so he could try boots before the drive north.</p>
+
+    <figure>
+      <img src="https://images.pexels.com/photos/1667095/pexels-photo-1667095.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Hunter in autumn forest wearing outdoor gear ready for fall season">
+      <figcaption>Fall hunt prep on cabelas.ca — layers, optics, and shooting gear in one specialty catalog, not a seasonal aisle that vanishes after opening weekend.</figcaption>
+    </figure>
+
+    <h2>Fishing and boating — still on the same account</h2>
+    <p>September lake trips don't pause because hunting season started. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's</a> fishing spans rods, reels, tackle, and cold-water clothing — the stuff you want to match to species and province regulations without guessing at marketplace listings. I added trout spinners and a replacement net while my brother browsed optics; one checkout, one order history for next year.</p>
+    <p>Boating and wildlife-watching categories matter if your family mixes camp, fish, and paddle weekends — same brand loyalty, fewer "wrong jurisdiction" surprises.</p>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">Pickup beats guessing</div>
+      <p>Order online on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's Canada</a>, pick up in-store free — try boots and jackets before tag day instead of repacking mismatched sizes from three retailers.</p>
+    </aside>
+
+    <h2>Camping — tents that understand Canadian weather</h2>
+    <p>Family camp meant an outfitter-style tent conversation — room for wet gear, serious rain, maybe a stove on colder nights. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's</a> camping lines include geodesic and guide tents built for long stays and heavy weather — names like Alaskan Guide show up in reviews for a reason when wind and rain aren't theoretical.</p>
+    <p>Chairs, tables, sleep systems, and camp kitchen bits sit beside tents on site — checklist shopping instead of forgetting the propane adapter again.</p>
+
+    <figure>
+      <img src="https://images.pexels.com/photos/2662816/pexels-photo-2662816.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Camping tent and gear set up in autumn wilderness">
+      <figcaption>Camping gear matched to Canadian fall — tents, furniture, and layers on cabelas.ca beside hunt and fish in one cart.</figcaption>
+    </figure>
+
+    <h2>Clothing and footwear — Canada-ready cold</h2>
+    <p>Generic "winter jacket" labels lie in October. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's Canada</a> emphasizes extreme cold-weather clothing and footwear — insulated boots, layered systems, handwear — tuned for what Canadian fall actually becomes. Buy once for hunt and camp rotation instead of cheap layers that fail at the truck at 5am.</p>
+    <p>Footwear sizing is why pickup mattered for us — order two widths, try in store, return the loser without losing a week before departure.</p>
+
+    <h2>Who should shop Cabela's Canada this way</h2>
+    <p>Shop if you're stacking fall hunt prep with fishing or camping on the same calendar. Shop if you want Canadian-market assortment and in-store pickup on heavy or fit-sensitive gear. Less ideal if you need ultra-local boutique fly shops only — <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's</a> wins on breadth, cold-weather depth, and one-stop fall lists.</p>
+
+    <blockquote>The best fall gear shop isn't the cheapest cart — it's the one that keeps hunt, fish, and camp on a single checklist before the tags and reservations expire.</blockquote>
+
+    <h3>Build the list once, checkout once</h3>
+    <p>Open <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">cabelas.ca</a>, merge hunt, fish, and camp lines on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's Canada</a>, choose pickup where fit matters. If September stops feeling like three separate panics, you'll know why one outdoor specialty cart beat three generic tabs.</p>
   `
 };

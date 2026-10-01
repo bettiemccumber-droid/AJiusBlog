@@ -952,6 +952,19 @@ const BLOG_POSTS = [
     excerpt: "I almost bought the wrong washer detergent combo online. A Miele UK consultation fixed TwinDos, Triflex, and UltraPhase in one visit — before the appliances landed.",
     keywords: ["Miele UK", "TwinDos", "consultation", "UltraPhase", "Triflex", "miele.co.uk"],
     relatedProducts: []
+  },
+  {
+    id: 74,
+    slug: "cabelas-canada-fall-hunt-fish-camp-gear-checklist",
+    title: "Cabela's Canada: Fall Hunt, Fish & Camp Gear Without the Scattered Tabs",
+    category: "Product Review",
+    date: "2026-09-11",
+    readTime: 8,
+    author: "Alex Jius",
+    image: "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg?auto=compress&cs=tinysrgb&w=800",
+    excerpt: "September meant a moose-tag trip for my brother and a last camping weekend for us — two lists, three stores, one forgotten rain shell. Cabela's Canada on cabelas.ca finally felt like one cart built for Canadian fall.",
+    keywords: ["Cabela's Canada", "hunting gear", "fishing", "camping", "outdoor", "cabelas.ca"],
+    relatedProducts: []
   }
 ];
 
