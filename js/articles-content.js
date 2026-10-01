@@ -3319,8 +3319,8 @@ const ARTICLE_CONTENTS = {
     <p>My brother's list: merino base layers, waterproof outer shell, game bags, headlamp with spare batteries. Mine added nothing except a shared cart and free in-store pickup so he could try boots before the drive north.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/1667095/pexels-photo-1667095.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Hunter in autumn forest wearing outdoor gear ready for fall season">
-      <figcaption>Fall hunt prep on cabelas.ca — layers, optics, and shooting gear in one specialty catalog, not a seasonal aisle that vanishes after opening weekend.</figcaption>
+      <img src="https://assets.basspro.com/image/upload/v1790175272/DigitalCreative/2026/CA/Campaigns/wk-39-09-24-Outdoor-Traditions/Homepage/Half-Width-Banner-1.png" alt="Waterfowl hunter and retriever in flooded timber — Outdoor Traditions fall hunt scene on Bass Pro and Cabela's Canada">
+      <figcaption>Fall hunt prep on cabelas.ca — the same Outdoor Traditions season you’ll see on <a href="https://www.basspro.ca/home" target="_blank" rel="noopener">Bass Pro Canada</a>, with layers, optics, and shooting gear in one specialty catalog.</figcaption>
     </figure>
 
     <h2>Fishing and boating — still on the same account</h2>
@@ -3337,8 +3337,8 @@ const ARTICLE_CONTENTS = {
     <p>Chairs, tables, sleep systems, and camp kitchen bits sit beside tents on site — checklist shopping instead of forgetting the propane adapter again.</p>
 
     <figure>
-      <img src="https://images.pexels.com/photos/2662816/pexels-photo-2662816.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Camping tent and gear set up in autumn wilderness">
-      <figcaption>Camping gear matched to Canadian fall — tents, furniture, and layers on cabelas.ca beside hunt and fish in one cart.</figcaption>
+      <img src="https://assets.basspro.com/image/upload/v1790175271/DigitalCreative/2026/CA/Campaigns/wk-39-09-24-Outdoor-Traditions/Homepage/Hero-Banner-Mobile.png" alt="Cabela's Instinct early-season hunting apparel — Trust Your Instinct campaign creative">
+      <figcaption>Instinct early-season apparel and the wider Outdoor Traditions lineup — hunt, fish, and camp layers on cabelas.ca in one cart before Canadian fall turns serious.</figcaption>
     </figure>
 
     <h2>Clothing and footwear — Canada-ready cold</h2>

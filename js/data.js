@@ -961,7 +961,7 @@ const BLOG_POSTS = [
     date: "2026-09-11",
     readTime: 8,
     author: "Alex Jius",
-    image: "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://assets.basspro.com/image/upload/v1790175271/DigitalCreative/2026/CA/Campaigns/wk-39-09-24-Outdoor-Traditions/Homepage/Hero-Banner-Mobile.png",
     excerpt: "September meant a moose-tag trip for my brother and a last camping weekend for us — two lists, three stores, one forgotten rain shell. Cabela's Canada on cabelas.ca finally felt like one cart built for Canadian fall.",
     keywords: ["Cabela's Canada", "hunting gear", "fishing", "camping", "outdoor", "cabelas.ca"],
     relatedProducts: []
