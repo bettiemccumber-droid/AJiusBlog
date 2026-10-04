@@ -965,6 +965,19 @@ const BLOG_POSTS = [
     excerpt: "September meant a moose-tag trip for my brother and a last camping weekend for us — two lists, three stores, one forgotten rain shell. Cabela's Canada on cabelas.ca finally felt like one cart built for Canadian fall.",
     keywords: ["Cabela's Canada", "hunting gear", "fishing", "camping", "outdoor", "cabelas.ca"],
     relatedProducts: []
+  },
+  {
+    id: 75,
+    slug: "izipizi-germany-screen-sun-reading-glasses-ww-de",
+    title: "IZIPIZI Germany: Screen, Sun & Reading Glasses Without the Pharmacy Rack",
+    category: "Product Review",
+    date: "2026-09-22",
+    readTime: 8,
+    author: "Alex Jius",
+    image: "https://cdn.shopify.com/s/files/1/1007/5786/4780/files/IZI_VISUEL_PLP_ENCART_DOUBLE_MORNING_EXPRESS_AW26_LAUNCH_1920x1390px.jpg?v=1788277943&width=1024&crop=center&height=760",
+    excerpt: "September meant hybrid work, school runs, and low sun that still glares on the commute. I stopped mixing drugstore readers with random blue-light frames — IZIPIZI on the German store finally felt like one colorful system for screen, sun, and reading.",
+    keywords: ["IZIPIZI", "reading glasses", "blue light", "sunglasses", "Germany", "izipizi.com"],
+    relatedProducts: []
   }
 ];
 

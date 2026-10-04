@@ -971,10 +971,18 @@
   text-align: center;
 }
 
-.article-content figure img {
+.article-content figure img,
+.article-content figure video {
   border-radius: var(--radius-lg);
   margin-inline: auto;
   box-shadow: var(--shadow-md);
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.article-content figure video + img {
+  margin-top: var(--space-lg);
 }
 
 .article-content figcaption {

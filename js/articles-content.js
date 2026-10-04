@@ -3352,5 +3352,56 @@ const ARTICLE_CONTENTS = {
 
     <h3>Build the list once, checkout once</h3>
     <p>Open <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">cabelas.ca</a>, merge hunt, fish, and camp lines on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=fe95uUFGAjcOzuwbOkhgqgycJwtOAl3l5sRj5b11h_ao8LwHyZsEhPTm1pvxdaZlwl6OrGv5L_bzdQCa6gEmnzNZBPICi_aVs2tIvjCQg_c_c&new=https%3A%2F%2Fwww.cabelas.ca" class="link--affiliate" target="_blank" rel="noopener sponsored">Cabela's Canada</a>, choose pickup where fit matters. If September stops feeling like three separate panics, you'll know why one outdoor specialty cart beat three generic tabs.</p>
+  `,
+
+  "izipizi-germany-screen-sun-reading-glasses-ww-de": `
+    <p>My September calendar looked innocent: two days in the office, three at the kitchen table, parent-teacher night, and a weekend train trip where I always forget which pair of glasses is in which bag. I had pharmacy +1.50 readers for menus, a marketplace "blue light" pair that smelled like glue, and sunglasses that scratched the first week.</p>
+    <p>I rebuilt the stack on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI</a> through the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">German IZIPIZI store</a> — screen, sun, and reading lines that share the same fit philosophy instead of three unrelated frames.</p>
+
+    <h2>Why IZIPIZI isn't another anonymous frame on a shelf</h2>
+    <p><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI</a> built its name on accessible, colorful eyewear for adults and kids — sun, reading, screen, sport, and sleeping categories that read like a checklist for real life, not a single "lifestyle" SKU. Flexible frames, clear diopter steps, and a two-year warranty matter when you are buying multiples for home, commute, and travel.</p>
+    <p>Shopping the Germany-facing storefront keeps sizing, shipping, and checkout in one language and one policy bucket — less guesswork than ordering from a US-only boutique and hoping customs agrees.</p>
+
+    <h2>Screen glasses — September is still mostly pixels</h2>
+    <p>Hybrid weeks did not end when summer did. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI Screen</a> lines target long laptop and tablet sessions with dedicated screen collections — tortoise, solid colors, and shapes that do not scream "office PPE." I wanted one pair that lived on my desk and another that could pass at a café without looking like safety gear.</p>
+    <p>Because the brand organizes by use case on site, I compared Screen models side by side with Reading and Sun instead of hunting random filters on a marketplace.</p>
+
+    <h2>Sun and polarized — autumn sun is lower, not weaker</h2>
+    <p>Commute glare and playground pick-up at 4pm still punish unprotected eyes. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI</a> sun ranges include polarized options and the Morning Express AW26 capsule — train-weekend pairs and everyday color without designer optical prices.</p>
+    <p>I am not chasing ocean-fishing lens science here; I wanted dependable sun coverage that matches the same face feel as my screen pair so switching does not mean a new pressure point behind the ears.</p>
+
+    <figure>
+      <video controls playsinline preload="metadata" poster="https://cdn.shopify.com/s/files/1/1007/5786/4780/files/IZI_VISUEL_HOMEPAGE_FOCUS_CARROUSEL_MORNING_EXPRESS_w_LOGO_AW26_SUN_600x750px_1.jpg?v=1790149082&width=832">
+        <source src="https://cdn.shopify.com/videos/c/vp/9bfa6f8898c647b2a012a7e87f449c6d/9bfa6f8898c647b2a012a7e87f449c6d.HD-1080p-4.8Mbps-95757085.mp4" type="video/mp4">
+      </video>
+      <img src="https://cdn.shopify.com/s/files/1/1007/5786/4780/files/CLEAR_SUN3530701X00_1-IZI_BAY_SUN_BASIL-LOVE_VUE1_5_886cea51-122f-4f3c-80b0-a32bf47606af.jpg?v=1777474589&width=832" alt="IZIPIZI Basil Love sun glasses — translucent pastel temple arms in stacked product detail">
+      <figcaption>Morning Express sun on the German store — campaign video plus Basil Love translucent colorways for autumn commutes and weekend trips.</figcaption>
+    </figure>
+
+    <aside class="article-soft-ad">
+      <div class="article-soft-ad__label">One brand, three jobs</div>
+      <p>Stack Screen + Sun + Reading on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI Germany</a> — shared sizing logic beats three random frames that never sit the same on your nose.</p>
+    </aside>
+
+    <h2>Reading glasses — menus, labels, and late-night messages</h2>
+    <p>Presbyopia does not wait for a formal eye appointment on your calendar. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI Reading</a> offers stepped strengths and frame styles that belong on a restaurant table — not folded in a flimsy case from the checkout aisle. I ordered two strengths to test: one for the laptop at arm's length, one for books and packaging fine print.</p>
+    <p>Kids' reading and sun lines sit on the same site if your September list includes school vision habits — one order history instead of a separate children's brand tab.</p>
+
+    <figure>
+      <img src="https://cdn.shopify.com/s/files/1/1007/5786/4780/files/LMSLC01_1-IZI_L_READING_BLACK_01_d2cf0554-af6f-402b-9e26-9f17875cb44b.jpg?v=1790612165&width=800" alt="Smiling woman wearing IZIPIZI matte black rectangular reading glasses">
+      <figcaption>Reading lines on IZIPIZI — matte black rectangles that belong at the table and on the train, not folded from a pharmacy spinner rack.</figcaption>
+    </figure>
+
+    <h2>Kids, sport, and the extras you forget until you need them</h2>
+    <p>Active and sport categories cover movement without treating every family member like a mini adult. Sleeping glasses and accessories show up when you realize screen rules apply to bedtime scrolling too. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI</a> keeps those niches in-house rather than outsourcing them to unrelated sellers.</p>
+    <p>The two-year warranty is the quiet spec that mattered to me — September is expensive enough without replacing a hinge that should have survived a backpack.</p>
+
+    <h2>Who should shop IZIPIZI Germany this way</h2>
+    <p>Shop if you want matching screen, sun, and reading pairs without designer optical pricing. Shop if you prefer a European storefront with clear categories over marketplace mystery listings. Less ideal if you need complex progressive prescriptions fitted in person — <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">IZIPIZI</a> wins on everyday multiples, color, and use-case clarity.</p>
+
+    <blockquote>The best September eyewear setup is not the single most expensive frame — it is the trio you actually reach for: screen at the desk, sun on the commute, reading in your coat pocket.</blockquote>
+
+    <h3>Pick your three, checkout once</h3>
+    <p>Open the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f824qUx5jr5sUNnPLOjsJpDS65HN5lt95YBa8rYoxfzGBBWc5LA1rMLH_bKB_bIrkGeSpICt5ccBGi1_b9FxLgoMKePld7Bt_bDe4uhwIg_c_c&new=https%3A%2F%2Fwww.izipizi.com%2Fww_de%2F" class="link--affiliate" target="_blank" rel="noopener sponsored">German IZIPIZI store</a>, line up Screen, Sun, and Reading strengths, and ship one cart. If your bag stops feeling like a junk drawer of mismatched pairs, you will know why one colorful system beat the pharmacy rack.</p>
   `
 };
