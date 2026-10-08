@@ -1117,8 +1117,10 @@ const ARTICLE_CONTENTS = {
     <p>I later read that <a href="https://www.linkbux.com/track/7a809cEMccO12CSrIpv0xO11lVJu_bwIummL2P4R5WA6Y7NO5HPBkpjfppJ6eXhw_b9_an3IJ9x?url=https%3A%2F%2Fwww.mauijim.com" class="link--affiliate" target="_blank" rel="noopener sponsored">Maui Jim lenses</a> are color-enhancing polarized filters, not just tinted plastic. That matched what I saw — coral tones in tide pools I'd walked past ten minutes earlier without noticing.</p>
 
     <figure>
-      <img src="https://images.mauijim.com/content-images/homepage/shop/crcf3-shop-women.png?imwidth=1024" alt="Woman wearing Maui Jim sport sunglasses with blue mirrored lenses on the water">
-      <figcaption>PolarizedPlus2 on the water — mirrored lenses cut glare and bring back color on bright, high-glare days.</figcaption>
+      <video controls playsinline preload="metadata" poster="https://images.ctfassets.net/qa544vk61x24/4c9dCaDnpSzPG4sCaR3jAK/9f0852ff033e58e3daeba0aa200e66b0/Featured-Style-Shield-1080x1080.jpg?fm=webp">
+        <source src="https://videos.ctfassets.net/qa544vk61x24/6ZQl0v0n5nQLc6uw57OoUT/cc8315d55d37f0770be4c665d3e35553/Kawika_Low.mp4" type="video/mp4">
+      </video>
+      <figcaption>Featured shield styles — PolarizedPlus2 in bright coast and desert light, with the Kawika line in motion.</figcaption>
     </figure>
 
     <aside class="article-soft-ad">
@@ -1135,8 +1137,9 @@ const ARTICLE_CONTENTS = {
     <p>For sport and fishing lines, rubberized nose pads and larger coverage matter more than logo placement. For city errands, lighter frames win. The site makes that distinction clearer than most eyewear brands that dump everything into one "sunglasses" bucket.</p>
 
     <figure>
-      <img src="https://images.mauijim.com/content-images/homepage/shop/cycf3-shop-men.png?imwidth=1024" alt="Man wearing Maui Jim sunglasses holding a surfboard at the beach">
-      <figcaption>Men's frames built for surf and sun — same PolarizedPlus2 clarity, fit tuned for movement and long hours outside.</figcaption>
+      <img src="https://images.ctfassets.net/qa544vk61x24/FRJNFyk1QhuiVD4ArEMQZ/11e0649a82b3339aa4401932e10258cf/1-23-25-MJ-Selects-Raws-11__1_.jpg?fm=webp&w=2048&q=80" alt="Angler casting from a boat wearing Maui Jim polarized sunglasses on open blue water">
+      <img src="https://picture.kecdn.net/cdn/MJ_B2C_TEST/images/AQfqAX75MmQg7MjfoU2QClzswxCICy5JfpA0ScD5DZFdilU4CXR7EBnrEIoZNtWPGuDm4bBhK9AEDKsSw1gQAqL_d-GwdsWXP8YfSiW-Mw" alt="Maui Jim rectangular polarized sunglasses product view on white background">
+      <figcaption>Open-water fishing and everyday frames — PolarizedPlus2 where glare is worst, then lens-first shopping on mauijim.com.</figcaption>
     </figure>
 
     <blockquote>Good lenses don't make the world prettier. They show you what was already there — without the glare pretending to be fog.</blockquote>

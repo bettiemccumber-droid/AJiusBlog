@@ -298,7 +298,7 @@ const BLOG_POSTS = [
     date: "2026-07-21",
     readTime: 10,
     author: "Alex Jius",
-    image: "https://images.mauijim.com/content-images/homepage/banner/miona-desktop.jpg?imwidth=1024",
+    image: "https://images.ctfassets.net/qa544vk61x24/4c9dCaDnpSzPG4sCaR3jAK/9f0852ff033e58e3daeba0aa200e66b0/Featured-Style-Shield-1080x1080.jpg?fm=webp",
     excerpt: "Gas-station shades on a coastal drive left me squinting at a gray ocean. One borrowed pair of Maui Jim sunglasses later, I understood what lens quality actually means.",
     keywords: ["Maui Jim", "polarized sunglasses", "PolarizedPlus2", "eyewear", "outdoor"],
     relatedProducts: []
