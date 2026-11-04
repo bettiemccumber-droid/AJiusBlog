@@ -978,6 +978,19 @@ const BLOG_POSTS = [
     excerpt: "September meant hybrid work, school runs, and low sun that still glares on the commute. I stopped mixing drugstore readers with random blue-light frames — IZIPIZI on the German store finally felt like one colorful system for screen, sun, and reading.",
     keywords: ["IZIPIZI", "reading glasses", "blue light", "sunglasses", "Germany", "izipizi.com"],
     relatedProducts: []
+  },
+  {
+    id: 76,
+    slug: "ticombo-us-festival-sports-tickets-sold-out-shows",
+    title: "Ticombo: Festival and Sports Tickets When Primary Sales Are Already Gone",
+    category: "Product Review",
+    date: "2026-11-02",
+    readTime: 10,
+    author: "Alex Jius",
+    image: "https://imgs.ticombo.com/tc-images-main/thumbnail/entities/music/banner/FestivalTN.png",
+    excerpt: "November meant a sold-out festival drop for my cousin and a Super Cup trip I was not planning until the group chat exploded. Ticombo on ticombo.com finally felt like one searchable marketplace for music and sports — not three sketchy tabs and a prayer.",
+    keywords: ["Ticombo", "concert tickets", "festival tickets", "sports tickets", "ticombo.com", "US"],
+    relatedProducts: []
   }
 ];
 
