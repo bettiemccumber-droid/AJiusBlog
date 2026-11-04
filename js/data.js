@@ -988,7 +988,7 @@ const BLOG_POSTS = [
     readTime: 10,
     author: "Alex Jius",
     image: "https://imgs.ticombo.com/tc-images-main/thumbnail/entities/music/banner/FestivalTN.png",
-    excerpt: "November meant a sold-out festival drop for my cousin and a Super Cup trip I was not planning until the group chat exploded. Ticombo on ticombo.com finally felt like one searchable marketplace for music and sports — not three sketchy tabs and a prayer.",
+    excerpt: "My cousin missed a festival presale by maybe forty seconds. Same week our group chat picked a Spanish Super Cup final and started arguing about flights. I used Ticombo for both hunts instead of random resale links from strangers.",
     keywords: ["Ticombo", "concert tickets", "festival tickets", "sports tickets", "ticombo.com", "US"],
     relatedProducts: []
   }
