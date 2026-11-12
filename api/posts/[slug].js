@@ -1,10 +1,14 @@
-import { applyApiHeaders, sendJson } from "../../lib/http.js";
-import { getPublishedBody, StorageError } from "../../lib/posts-store.js";
+import { applyApiHeaders, isPublishAuthorized, sendJson } from "../../lib/http.js";
+import { getPublishedBody, removePublishedPost, StorageError } from "../../lib/posts-store.js";
 
 /**
  * GET https://www.ajiusblogs.top/api/posts/:slug
  * Returns { bodyHtml } for one API-published article. No PUBLISH_TOKEN.
  * Static articles stay in js/articles-content.js and are not served here.
+ *
+ * DELETE https://www.ajiusblogs.top/api/posts/:slug
+ * Authorization: Bearer <PUBLISH_TOKEN>
+ * Removes one API-published article. Static posts are left untouched.
  *
  * @param {import("http").IncomingMessage & { query?: { slug?: string|string[] } }} req
  * @param {import("http").ServerResponse} res
@@ -16,13 +20,35 @@ export default async function handler(req, res) {
     return;
   }
 
+  if (req.method === "DELETE") {
+    if (!isPublishAuthorized(req)) {
+      sendJson(res, 401, { error: "Unauthorized" });
+      return;
+    }
+    if (!slugFromQuery(req)) {
+      sendJson(res, 404, { error: "Article not found" });
+      return;
+    }
+    try {
+      await removePublishedPost(slugFromQuery(req));
+      sendJson(res, 200, { ok: true });
+    } catch (error) {
+      console.error("Could not delete article", error);
+      if (error instanceof StorageError) {
+        sendJson(res, 503, { error: "Blob storage is not configured" });
+        return;
+      }
+      sendJson(res, 500, { error: "Could not delete the article" });
+    }
+    return;
+  }
+
   if (req.method !== "GET") {
     sendJson(res, 405, { error: "Method not allowed" });
     return;
   }
 
-  const raw = req.query?.slug;
-  const slug = Array.isArray(raw) ? raw[0] : raw;
+  const slug = slugFromQuery(req);
   if (!slug) {
     sendJson(res, 404, { error: "Article not found" });
     return;
@@ -43,4 +69,14 @@ export default async function handler(req, res) {
     }
     sendJson(res, 500, { error: "Could not read the article" });
   }
+}
+
+/**
+ * @param {import("http").IncomingMessage & { query?: { slug?: string|string[] } }} req
+ * @returns {string}
+ */
+function slugFromQuery(req) {
+  const raw = req.query?.slug;
+  const slug = Array.isArray(raw) ? raw[0] : raw;
+  return typeof slug === "string" ? slug.trim() : "";
 }
