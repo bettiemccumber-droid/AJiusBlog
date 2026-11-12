@@ -120,32 +120,31 @@ function renderArticleSidebar(post, slug) {
 }
 
 /**
- * Initialize and render the post detail page
+ * Show the missing-article state in the existing content container.
  */
-function initPostDetailPage() {
-  const slug = getPostSlug();
-  if (!slug) {
-    window.location.href = "blog";
-    return;
-  }
+function showMissingArticle() {
+  const container = document.getElementById("postContent");
+  if (!container) return;
+  container.innerHTML = `
+    <div class="text-center" style="padding: 4rem 0;">
+      <h2>Article Not Found</h2>
+      <p style="color: var(--color-text-muted); margin: 1rem 0 2rem;">The article you're looking for doesn't exist.</p>
+      <a href="blog" class="btn btn--primary">Back to Blog</a>
+    </div>
+  `;
+}
 
-  const post = getPostBySlug(slug);
-  if (!post) {
-    document.getElementById("postContent").innerHTML = `
-      <div class="text-center" style="padding: 4rem 0;">
-        <h2>Article Not Found</h2>
-        <p style="color: var(--color-text-muted); margin: 1rem 0 2rem;">The article you're looking for doesn't exist.</p>
-        <a href="blog" class="btn btn--primary">Back to Blog</a>
-      </div>
-    `;
-    return;
-  }
-
+/**
+ * Render one article into the existing detail layout.
+ * @param {Object} post - Blog post data, including content HTML
+ * @param {string} slug - Current slug
+ */
+function renderPostDetail(post, slug) {
   document.title = `${post.title} — AJiusBlog`;
 
   const badgeClass = getCategoryBadgeClass(post.category);
   const postIndex = BLOG_POSTS.findIndex((p) => p.slug === slug);
-  const prevPost = postIndex < BLOG_POSTS.length - 1 ? BLOG_POSTS[postIndex + 1] : null;
+  const prevPost = postIndex >= 0 && postIndex < BLOG_POSTS.length - 1 ? BLOG_POSTS[postIndex + 1] : null;
   const nextPost = postIndex > 0 ? BLOG_POSTS[postIndex - 1] : null;
 
   document.getElementById("postContent").innerHTML = `
@@ -175,7 +174,7 @@ function initPostDetailPage() {
       <div class="container">
         <div class="article-layout">
           <div class="article-layout__main">
-            <img class="article-hero-image" src="${post.image}" alt="${post.title}" loading="eager">
+            ${post.image ? `<img class="article-hero-image" src="${post.image}" alt="${post.title}" loading="eager">` : ""}
             <div class="article-content">
               ${post.content || "<p>Content loading...</p>"}
             </div>
@@ -206,6 +205,65 @@ function initPostDetailPage() {
   bindArticleTagClicks();
   initShareButtons(window.location.href, post.title);
   onContentReady();
+}
+
+/**
+ * Open a post by slug.
+ * Static ARTICLE_CONTENTS wins. Otherwise the body is loaded from GET /api/posts/:slug.
+ */
+async function initPostDetailPage() {
+  const slug = getPostSlug();
+  if (!slug) {
+    window.location.href = "blog";
+    return;
+  }
+
+  const staticHtml = typeof ARTICLE_CONTENTS !== "undefined" ? ARTICLE_CONTENTS[slug] : "";
+  const staticPost = getPostBySlug(slug);
+  if (staticHtml && staticPost) {
+    staticPost.content = staticHtml;
+    renderPostDetail(staticPost, slug);
+    return;
+  }
+
+  await loadPublishedPosts();
+  let post = getPostBySlug(slug);
+  let bodyHtml = "";
+
+  try {
+    bodyHtml = (await loadPublishedBody(slug)) || "";
+  } catch (error) {
+    console.error("Published article body unavailable.", error);
+  }
+
+  if (!bodyHtml) {
+    if (post?.content) {
+      renderPostDetail(post, slug);
+      return;
+    }
+    showMissingArticle();
+    return;
+  }
+
+  if (!post) {
+    post = {
+      id: 0,
+      slug,
+      title: slug,
+      category: "Product Review",
+      date: "",
+      readTime: 1,
+      author: "Alex Jius",
+      image: "",
+      excerpt: "",
+      keywords: [],
+      relatedProducts: []
+    };
+    BLOG_POSTS.push(post);
+  }
+
+  post.content = bodyHtml;
+  renderPostDetail(post, slug);
 }
 
 /**
@@ -249,4 +307,9 @@ function renderRelatedProducts(post) {
   `;
 }
 
-document.addEventListener("DOMContentLoaded", initPostDetailPage);
+document.addEventListener("DOMContentLoaded", () => {
+  initPostDetailPage().catch((error) => {
+    console.error("Post detail failed to initialize.", error);
+    showMissingArticle();
+  });
+});

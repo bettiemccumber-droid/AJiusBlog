@@ -1,6 +1,7 @@
 /**
  * AJiusBlog — Full article body content (HTML)
  * Written for medium-long reads with contextual images, inline links, and soft product mentions.
+ * Static HTML only. API-published bodies are stored in Vercel Blob, not in this file.
  */
 
 /** @type {Record<string, string>} Article HTML content keyed by slug */

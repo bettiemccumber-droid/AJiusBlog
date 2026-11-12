@@ -1,5 +1,7 @@
 /**
- * AJiusBlog — Blog post metadata (body content loaded from articles-content.js on detail page)
+ * AJiusBlog — Blog post metadata (body content loaded from articles-content.js on detail page).
+ * Static posts stay in this file. API posts live in Vercel Blob and are merged in the browser.
+ * Nothing writes this file at runtime.
  */
 
 /** @type {Array<Object>} Blog post collection */
@@ -1136,12 +1138,16 @@ function createBlogCardHTML(post, variant = "default") {
   const badgeClass = getCategoryBadgeClass(post.category);
   const variantClass =
     variant === "wide" ? " blog-card--wide" : variant === "list" ? " blog-card--list" : "";
+  const keywords = Array.isArray(post.keywords) ? post.keywords.join(",") : "";
+  const image = post.image
+    ? `<a href="post-detail?slug=${post.slug}" class="blog-card__image-wrap">
+        <img class="blog-card__image" src="${post.image}" alt="${post.title}" loading="lazy">
+      </a>`
+    : "";
 
   return `
-    <article class="blog-card${variantClass}" data-category="${post.category}" data-keywords="${post.keywords.join(",")}" data-title="${post.title.toLowerCase()}">
-      <a href="post-detail?slug=${post.slug}" class="blog-card__image-wrap">
-        <img class="blog-card__image" src="${post.image}" alt="${post.title}" loading="lazy">
-      </a>
+    <article class="blog-card${variantClass}" data-category="${post.category}" data-keywords="${keywords}" data-title="${(post.title || "").toLowerCase()}">
+      ${image}
       <div class="blog-card__body">
         <div class="blog-card__meta">
           <span class="badge ${badgeClass}">${post.category}</span>
@@ -1165,10 +1171,14 @@ function createBlogCardHTML(post, variant = "default") {
  * @returns {string} Featured post markup
  */
 function createFeaturedPostHTML(post) {
+  const image = post.image
+    ? `<img class="featured-post__image" src="${post.image}" alt="${post.title}" loading="lazy">`
+    : "";
+
   return `
     <a href="post-detail?slug=${post.slug}" class="featured-post">
       <div class="featured-post__image-wrap">
-        <img class="featured-post__image" src="${post.image}" alt="${post.title}" loading="lazy">
+        ${image}
         <span class="featured-post__badge">${post.category}</span>
       </div>
       <div class="featured-post__body">
@@ -1257,4 +1267,99 @@ function createProductCardHTML(product) {
       </div>
     </article>
   `;
+}
+
+/**
+ * Copy the list fields used by BLOG_POSTS. Body HTML is loaded separately.
+ * @param {Object} post - Post from GET /api/posts
+ * @returns {Object}
+ */
+function publishedListFields(post) {
+  return {
+    id: post.id,
+    slug: post.slug,
+    title: post.title,
+    category: post.category,
+    date: post.date,
+    readTime: post.readTime,
+    author: post.author,
+    image: post.image || "",
+    excerpt: post.excerpt || "",
+    keywords: Array.isArray(post.keywords) ? post.keywords : [],
+    relatedProducts: Array.isArray(post.relatedProducts) ? post.relatedProducts : []
+  };
+}
+
+/**
+ * Merge API posts into BLOG_POSTS. The same slug keeps the API list fields
+ * and any HTML already attached from ARTICLE_CONTENTS.
+ * @param {Array<Object>} remotePosts
+ */
+function mergePublishedPosts(remotePosts) {
+  if (!Array.isArray(remotePosts)) return;
+
+  /** @type {Map<string, Object>} */
+  const incoming = new Map();
+  remotePosts.forEach((post) => {
+    if (!post || typeof post.slug !== "string" || !post.slug) return;
+    incoming.set(post.slug, publishedListFields(post));
+  });
+
+  for (let index = 0; index < BLOG_POSTS.length; index += 1) {
+    const remote = incoming.get(BLOG_POSTS[index].slug);
+    if (!remote) continue;
+    const staticContent = BLOG_POSTS[index].content;
+    BLOG_POSTS[index] = { ...BLOG_POSTS[index], ...remote };
+    if (staticContent) BLOG_POSTS[index].content = staticContent;
+    incoming.delete(remote.slug);
+  }
+
+  incoming.forEach((post) => {
+    BLOG_POSTS.push(post);
+  });
+}
+
+/** @type {Promise<void>|null} */
+let publishedPostsPromise = null;
+
+/**
+ * Fetch GET /api/posts and merge. A failed request leaves the static list in place.
+ * @returns {Promise<void>}
+ */
+function loadPublishedPosts() {
+  if (!publishedPostsPromise) {
+    publishedPostsPromise = fetchAndMergePublishedPosts();
+  }
+  return publishedPostsPromise;
+}
+
+/**
+ * @returns {Promise<void>}
+ */
+async function fetchAndMergePublishedPosts() {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 4000);
+  try {
+    const response = await fetch("/api/posts", { cache: "no-store", signal: controller.signal });
+    if (!response.ok) return;
+    const data = await response.json();
+    mergePublishedPosts(Array.isArray(data) ? data : data.posts);
+  } catch (error) {
+    console.error("Published posts unavailable, showing static articles.", error);
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/**
+ * Load body HTML for one API-published article.
+ * @param {string} slug
+ * @returns {Promise<string|null>}
+ */
+async function loadPublishedBody(slug) {
+  const response = await fetch(`/api/posts/${encodeURIComponent(slug)}`, { cache: "no-store" });
+  if (!response.ok) return null;
+  const data = await response.json();
+  if (typeof data === "string") return data;
+  return typeof data?.bodyHtml === "string" ? data.bodyHtml : null;
 }

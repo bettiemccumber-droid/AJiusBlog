@@ -1,6 +1,10 @@
 # Dependencies
 node_modules/
 
+# Secrets
+.env
+.env.*
+
 # OS & editor
 .DS_Store
 Thumbs.db

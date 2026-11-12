@@ -24,9 +24,11 @@ let sortOrder = "newest";
 let viewMode = "grid";
 
 /**
- * Initialize the blog list page
+ * Initialize the blog list page.
+ * API posts are merged first. If that request fails, the static list still renders.
  */
-function initBlogPage() {
+async function initBlogPage() {
+  await loadPublishedPosts();
   renderStatsBar();
   renderFilterButtons();
   renderSidebarWidgets();
@@ -270,8 +272,8 @@ function applyFilters() {
     const matchSearch =
       !searchQuery ||
       post.title.toLowerCase().includes(searchQuery) ||
-      post.keywords.some((kw) => kw.toLowerCase().includes(searchQuery)) ||
-      post.excerpt.toLowerCase().includes(searchQuery);
+      (post.keywords || []).some((kw) => kw.toLowerCase().includes(searchQuery)) ||
+      (post.excerpt || "").toLowerCase().includes(searchQuery);
     return matchCategory && matchSearch;
   });
 
@@ -341,4 +343,8 @@ function renderPagination(totalPages) {
   });
 }
 
-document.addEventListener("DOMContentLoaded", initBlogPage);
+document.addEventListener("DOMContentLoaded", () => {
+  initBlogPage().catch((error) => {
+    console.error("Blog page failed to initialize.", error);
+  });
+});

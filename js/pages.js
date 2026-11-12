@@ -228,8 +228,12 @@ function initAboutPage() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  initHomePage();
-  initProductsPage();
-  initContactForm();
-  initAboutPage();
+  const page = document.body.dataset.page;
+  const ready = page === "index" || page === "about" ? loadPublishedPosts() : Promise.resolve();
+  ready.finally(() => {
+    initHomePage();
+    initProductsPage();
+    initContactForm();
+    initAboutPage();
+  });
 });
