@@ -38,7 +38,7 @@ export default async function handler(req, res) {
         sendJson(res, 503, { error: "Blob storage is not configured" });
         return;
       }
-      sendJson(res, 500, { error: "Could not delete the article" });
+      sendJson(res, 500, { error: deleteErrorText(error) });
     }
     return;
   }
@@ -79,4 +79,14 @@ function slugFromQuery(req) {
   const raw = req.query?.slug;
   const slug = Array.isArray(raw) ? raw[0] : raw;
   return typeof slug === "string" ? slug.trim() : "";
+}
+
+/**
+ * 把存储错误收成一句能看的话，不带密钥。
+ * @param {unknown} error
+ * @returns {string}
+ */
+function deleteErrorText(error) {
+  const message = error instanceof Error ? error.message : "Could not delete the article";
+  return message.replace(/Bearer\s+\S+/gi, "Bearer").slice(0, 180) || "Could not delete the article";
 }
