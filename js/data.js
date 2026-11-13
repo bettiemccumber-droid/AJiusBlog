@@ -1143,7 +1143,7 @@ function createBlogCardHTML(post, variant = "default") {
     ? `<a href="post-detail?slug=${post.slug}" class="blog-card__image-wrap">
         <img class="blog-card__image" src="${post.image}" alt="${post.title}" loading="lazy">
       </a>`
-    : "";
+    : `<a href="post-detail?slug=${post.slug}" class="blog-card__image-wrap blog-card__image-wrap--empty" aria-hidden="true"></a>`;
 
   return `
     <article class="blog-card${variantClass}" data-category="${post.category}" data-keywords="${keywords}" data-title="${(post.title || "").toLowerCase()}">
@@ -1173,7 +1173,7 @@ function createBlogCardHTML(post, variant = "default") {
 function createFeaturedPostHTML(post) {
   const image = post.image
     ? `<img class="featured-post__image" src="${post.image}" alt="${post.title}" loading="lazy">`
-    : "";
+    : `<div class="featured-post__image featured-post__image--empty" aria-hidden="true"></div>`;
 
   return `
     <a href="post-detail?slug=${post.slug}" class="featured-post">
