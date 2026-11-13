@@ -95,5 +95,10 @@ function sendStorageError(res, error, fallback) {
     sendJson(res, 503, { error: "Blob storage is not configured" });
     return;
   }
-  sendJson(res, 500, { error: fallback });
+  const detail = error instanceof Error ? error.message : "";
+  const safe = detail
+    .replace(/Bearer\s+\S+/gi, "Bearer [redacted]")
+    .replace(/token[=:]\s*\S+/gi, "token=[redacted]")
+    .slice(0, 180);
+  sendJson(res, 500, { error: safe ? `${fallback}: ${safe}` : fallback });
 }
