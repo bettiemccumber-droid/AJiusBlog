@@ -539,6 +539,11 @@
   transition: var(--transition);
 }
 
+.featured-post__image--empty {
+  min-height: 280px;
+  background: linear-gradient(145deg, #e8eef5 0%, #d5dee8 100%);
+}
+
 .featured-post:hover .featured-post__image {
   transform: scale(1.05);
 }
